@@ -1,4 +1,4 @@
-# pandoc - structured text document model / abstract syntax tree for all the world's structured text formats - all together now
+# pandoc gem - structured text document model / abstract syntax tree for all the world's structured text formats - all together now
 
 * home  :: [github.com/texti/pandoc](https://github.com/texti/pandoc)
 * bugs  :: [github.com/texti/pandoc/issues](https://github.com/texti/pandoc/issues)
