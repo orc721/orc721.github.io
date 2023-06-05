@@ -1,0 +1,10 @@
+##   gm. 
+## 
+## add  (or copy-n-paste your inscripiotions ids here
+##    one inscripiton id per line  
+##
+##  lines stating with #  are comment lines and get ignored and
+##     all empty lines get ignorded
+##     and you can put spaces before or after the inscription ids
+##
+##  here be dragons.
