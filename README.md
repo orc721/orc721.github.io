@@ -17,8 +17,18 @@ How?
 
 Here are your task(s):
 
-Sign-up or use your gitub accounts  -   and one of you start a new github org(anization) whatever name e.g. inscribes etc. - free -  
-that lets you add all people that want to help and add inscriptions ids to get validated and added to
+Step 1) Sign-up or use your gitub account(s)  
+
+Step 2) Join the /inscribes org here - how? say hi in the ordinal punks discord (in the #generative-orc-721 channel) 
+and ask about the /inscribes org - and the invite to join so you can commit / write / save here gets sent to you.
+For an ordinal punks discord invite
+see <https://twitter.com/OrdinalPunks/status/1620230583711576068>.
+   
+<!-- old - done?
+and one of you start a new github org(anization) whatever name e.g. inscribes etc. - free -  
+-->
+
+Once a member here you can help and add inscriptions ids to get validated and added to
 the list collected at /generative-orc-721
 
 For every day - start a new text file e.g  
