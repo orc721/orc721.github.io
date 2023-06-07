@@ -20,7 +20,7 @@ Here are your task(s):
 Step 1) Sign-up or use your gitub account(s)  
 
 Step 2) Join the /inscribes org here - how? say hi in the ordinal punks discord (in the #generative-orc-721 channel) 
-and ask about the /inscribes org - and the invite to join so you can commit / write / save here gets sent to you.
+and ask about the /inscribes org - and the invite to join so you can commit / write / save here gets sent to you (no questions asked, all welcome, yes you can).
 For an ordinal punks discord invite
 see <https://twitter.com/OrdinalPunks/status/1620230583711576068>.
    
