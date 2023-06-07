@@ -82,7 +82,7 @@ and get your ORC-721 mints added to to the mint.csv or error.txt
 e.g.  [`/diypunks/mint.csv`](https://github.com/ordbase/generative-orc-721/blob/master/diypunks/mint.csv)  
 or [`/diypunks/error.txt`](https://github.com/ordbase/generative-orc-721/blob/master/diypunks/error.txt)
  or [`/diycoolcats/mint.csv`](https://github.com/ordbase/generative-orc-721/blob/master/diycoolcats/mint.csv)  
- or [`/diycollcats/error.txt`](https://github.com/ordbase/generative-orc-721/blob/master/diycoolcats/error.txt) and so on
+ or [`/diycoolcats/error.txt`](https://github.com/ordbase/generative-orc-721/blob/master/diycoolcats/error.txt) and so on
 and - bonus -  get a public hosted generated image in 1x and 4x of 
 your mint inscribe for easy (re)use and reference.    
 
