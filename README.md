@@ -78,9 +78,11 @@ or if you add (by accident) duplicates.
 Every day (best effort) starting Monday, June 5th 
 I will use the text file from the last day and
 add all inscribes and run the ORC-721 processing scripts to validate 
-and get your ORC-721 mints added to to the mint.csv or error.csv (& error.txt) 
-e.g.  `/diypunks/mint.csv`  or `/diypunks/error.csv`
-  or `/diycoolcats/mint.csv`  or `/diycollcats/error.csv` and so on
+and get your ORC-721 mints added to to the mint.csv or error.txt 
+e.g.  [`/diypunks/mint.csv`](https://github.com/ordbase/generative-orc-721/blob/master/diypunks/mint.csv)  
+or [`/diypunks/error.txt`](https://github.com/ordbase/generative-orc-721/blob/master/diypunks/error.txt)
+ or [`/diycoolcats/mint.csv`](https://github.com/ordbase/generative-orc-721/blob/master/diycoolcats/mint.csv)  
+ or [`/diycollcats/error.txt`](https://github.com/ordbase/generative-orc-721/blob/master/diycoolcats/error.txt) and so on
 and - bonus -  get a public hosted generated image in 1x and 4x of 
 your mint inscribe for easy (re)use and reference.    
 
