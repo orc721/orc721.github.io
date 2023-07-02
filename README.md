@@ -1,4 +1,4 @@
-#   Ordgen / ORC-721 Mints
+# Generative! Your Numbers, Your Image! - Ordgen / ORC-721 Mints
 
 
 New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](https://github.com/ordbase/generative-orc-721)
