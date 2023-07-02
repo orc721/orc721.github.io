@@ -1,6 +1,15 @@
 #   Ordgen / ORC-721 Mints
 
 
+New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](https://github.com/ordbase/generative-orc-721)
+
+**Q: Wen image (in wallet) - i see text?**
+
+Please, see [Frequently Asked Questions (F.A.Q) and Answers »](https://github.com/ordbase/generative-orc-721/blob/master/FAQ.md)
+
+
+
+
 [№ 14192325](https://ordinals.com/inscription/0e8687e4e6df217a4de3dd4fce80237e73608f462c1747682d91804c4f0f63f1i0) - 2023-06-30 00:19:43 UTC<br>
 ![](https://ordbase.github.io/num/14192325.png) 4x ![](https://ordbase.github.io/num/14192325@4x.png)<br>
 ```
@@ -775,3 +784,9 @@ you can inscribe using the slug 'orangepixels'. Like this but use your own "g" v
 	"g": [42, 6, 31]
 }
 ```
+
+
+
+---
+
+Page Generated with [Ordlite - Ordinal Inscription (SQL) Database - Scripts](https://github.com/ordbase/generative-orc-721/tree/master/ordlite).  
