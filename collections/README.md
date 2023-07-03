@@ -8,8 +8,8 @@
 
 **D.I.Y. Recursive Martians - Aliens Vol. 2** (diymartians) max. 100 - [№ 12799513](https://ordinals.com/inscription/b2426c302ad2807d832b994cb509000a5fa8ac9c08cce273b16400a8409b4c13i0) - 2023-06-19 17:40:41 UTC<br>
 50 layer(s)<br>
-<a href="https://ordinals.com/inscription/0829dc471f8bb92a971dfdfb00a71c016b833c8f1d5f39dcb15aa5535d08fc15i0" title="№ 12225771"><img src="../num/12225771.png"></a>
-<a href="https://ordinals.com/inscription/9482552ec759b76577b28923741eb4bfc7770cead528755bf8fa44196ae9318ci0" title=""№ 12225872""><img src="../num/12225872.png"></a> 
+<a href="https://ordinals.com/inscription/0829dc471f8bb92a971dfdfb00a71c016b833c8f1d5f39dcb15aa5535d08fc15i0"><img src="../num/12225771.png" alt="№ 12225771"></a>
+<a href="https://ordinals.com/inscription/9482552ec759b76577b28923741eb4bfc7770cead528755bf8fa44196ae9318ci0"><img src="../num/12225872.png" alt="№ 12225872"></a> 
 [№ 12225773](https://ordinals.com/inscription/5b8eb4a05f13fffc49f824f457fb080b67e4fdc312fbbf2f804cef59e6d5fad2i0) ![](../num/12225773.png)
 [№ 12225772](https://ordinals.com/inscription/85e0efd6cc2801ab7e1fe28e23110441348ca40481599f880c571ff4f69f066fi0) ![](../num/12225772.png)
 [№ 12225841](https://ordinals.com/inscription/7953ccb6614a41e7b4c4ed2a2b112b52feda387de92de2c1a314f03d5da41955i0) ![](../num/12225841.png)
