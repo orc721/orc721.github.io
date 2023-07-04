@@ -1,4 +1,4 @@
-# Generative! Your Numbers, Your Image! - Ordgen / ORC-721 Mints
+
 
 
 New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](https://github.com/ordbase/generative-orc-721)
@@ -8,6 +8,8 @@ New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](h
 Please, see [Frequently Asked Questions (F.A.Q) and Answers »](https://github.com/ordbase/generative-orc-721/blob/master/FAQ.md)
 
 
+
+## Mints
 
 
 [№ 14192325](https://ordinals.com/inscription/0e8687e4e6df217a4de3dd4fce80237e73608f462c1747682d91804c4f0f63f1i0) - 2023-06-30 00:19:43 UTC<br>

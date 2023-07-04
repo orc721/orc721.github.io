@@ -1,7 +1,7 @@
 ## note: add site title for primer (default) theme to avoid duplicate titles getting (auto-) added
 ##   note: title must match the heading 1 in the readme
 ##   note - title in html - e.g. & escaped to &amp; (!!)
-title: "Generative! Your Numbers, Your Image! - Ordgen / ORC-721 Mints"
+title: "Generative! Your Numbers, Your Image! - Ordgen / ORC-721"
 
 ## add emoji support
 
