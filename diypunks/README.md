@@ -1,4 +1,4 @@
-  ## D.I.Y. Punk (diypunks) max. 721
+  ## D.I.Y. Punks (diypunks) max. 721
 
 <a href="https://ordinals.com/inscription/31bd26c29a483fbcde4c44d0a7f21741d72931e107aae978f43d1f6511b7bba8i0" title="№ 9959200"><img src="https://ordbase.github.io/num/9959200.png" alt="№ 9959200"></a>
 <a href="https://ordinals.com/inscription/6211e11d65711ec5bb2b3c5a4dcdcd326c1e2e1d3f653679bd1bffb813245649i0" title="№ 9963055"><img src="https://ordbase.github.io/num/9963055.png" alt="№ 9963055"></a>
