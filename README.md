@@ -1,6 +1,3 @@
-
-
-
 New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](https://github.com/ordbase/generative-orc-721)
 
 **Q: Wen image (in wallet) - i see text?**
@@ -8,786 +5,608 @@ New to Generative ORC-721?  See the [Getting Started Guide & Documentation »](h
 Please, see [Frequently Asked Questions (F.A.Q) and Answers »](https://github.com/ordbase/generative-orc-721/blob/master/FAQ.md)
 
 
-
 ## Mints
 
 
-[№ 14192325](https://ordinals.com/inscription/0e8687e4e6df217a4de3dd4fce80237e73608f462c1747682d91804c4f0f63f1i0) - 2023-06-30 00:19:43 UTC<br>
-![](https://ordbase.github.io/num/14192325.png) 4x ![](https://ordbase.github.io/num/14192325@4x.png)<br>
+[№ 15685462](https://ordinals.com/inscription/c6f99551596efd124bb88497f7a8e2b851eebd86027933c036ace409dfdd2266i0) - 2023-07-09 02:52:03 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15685462.png" width="10%"><br>
 ```
-og mint diyphunks 0 49 28
+og mint diyorditroops 54 4 35 41 46 23 22 30 32 40 33 34 45 44 43 42 42 27 18 28 40 43 36 33 7
 ```
 
-[№ 13933848](https://ordinals.com/inscription/f4b732e3cbdd565fe953efb3208384fae89861137b1c44065db92eb5be8749eai0) - 2023-06-28 00:27:48 UTC<br>
-![](https://ordbase.github.io/num/13933848.png) 4x ![](https://ordbase.github.io/num/13933848@4x.png)<br>
+[№ 15683796](https://ordinals.com/inscription/1068b6adc93ff5d354b3d3f7495e54201bf228a186bc79cc40158a5979b62861i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683796.png" width="10%"><br>
 ```
-og mint diyphunks 4 52 19
+og mint diyorditroops 55 2 34 9 19 27
 ```
 
-[№ 13933820](https://ordinals.com/inscription/81accb1dbae069d02ed68796ec7de34f471743b79ddb25c690d0f34419c71405i0) - 2023-06-28 00:27:48 UTC<br>
-![](https://ordbase.github.io/num/13933820.png) 4x ![](https://ordbase.github.io/num/13933820@4x.png)<br>
+[№ 15683651](https://ordinals.com/inscription/3782b6e2de3b903d950074f32380dca9459026d7f5b38fe9b0c926be9904e408i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683651.png" width="10%"><br>
 ```
-og mint diyphunks 4 15
+og mint diyorditroops 57 4 29 49 35 40
 ```
 
-[№ 13593004](https://ordinals.com/inscription/6ae4e42f2d879e122de469b6029d57f60c856b3245ac2178fbd2af0f05ffa3a0i0) - 2023-06-25 23:25:05 UTC<br>
-![](https://ordbase.github.io/num/13593004.png) 4x ![](https://ordbase.github.io/num/13593004@4x.png)<br>
+[№ 15683612](https://ordinals.com/inscription/1f424051af08719e91e09f9e4403c5eb52644065406d64ebd1c194bfafc6aebdi0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683612.png" width="10%"><br>
 ```
-og mint diyphunks 4 17 50
+og mint diyorditroops 53 4 12 29 28 49 30 23 40
 ```
 
-[№ 13592989](https://ordinals.com/inscription/4b923abd1ea034cc5da9ace9a0364a47697a1b5e3e2a237f72a417352413c823i0) - 2023-06-25 23:25:05 UTC<br>
-![](https://ordbase.github.io/num/13592989.png) 4x ![](https://ordbase.github.io/num/13592989@4x.png)<br>
+[№ 15683566](https://ordinals.com/inscription/d48dc7dff426e1c107816e2c990b87f7da49fa2f3af3e69c12293396f0edd5c8i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683566.png" width="10%"><br>
 ```
-og mint diyphunks 0 54 55 23
+og mint diyorditroops 4 12 29 28 49 30
 ```
 
-[№ 13592982](https://ordinals.com/inscription/c7548b10a223102085ba4646d7c2aeceba11f73de3ee1a7ab8d2b491b035ce13i0) - 2023-06-25 23:25:05 UTC<br>
-![](https://ordbase.github.io/num/13592982.png) 4x ![](https://ordbase.github.io/num/13592982@4x.png)<br>
+[№ 15683562](https://ordinals.com/inscription/5cdcd5dc5b4a9d2f9e9db35e5a80da2bfe2fc8b195fcb8bc27a20f7e5e7a6333i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683562.png" width="10%"><br>
 ```
-og mint diyphunks 0 39 52 16
+og mint diyorditroops 27 37 19 4 6
 ```
 
-[№ 13592980](https://ordinals.com/inscription/9176f768c82e7be819658da3b297a4d7f2d3b9d88fef4890bf0be0886ca8ccbei0) - 2023-06-25 23:25:05 UTC<br>
-![](https://ordbase.github.io/num/13592980.png) 4x ![](https://ordbase.github.io/num/13592980@4x.png)<br>
+[№ 15683561](https://ordinals.com/inscription/f240d4af32cb29436b7155e847d4059a96fe9ffd6dbf7b35648f1118282130fci0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683561.png" width="10%"><br>
 ```
-og mint diyphunks 0 34 55 56 15
+og mint diyorditroops 4 41 15 34 27 4 15 46
 ```
 
-[№ 13592979](https://ordinals.com/inscription/0de031152914b6f70ae47cdd90dbb4e7ef74544cec563f467a7c3533017f8557i0) - 2023-06-25 23:25:05 UTC<br>
-![](https://ordbase.github.io/num/13592979.png) 4x ![](https://ordbase.github.io/num/13592979@4x.png)<br>
+[№ 15683560](https://ordinals.com/inscription/4e6d1e98e69a33c616b76bef9e43c6aba449af895d93826372f9b7e7119014dci0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683560.png" width="10%"><br>
 ```
-og mint diyphunks 0 19 32
+og mint diyorditroops 55 49 29 30 2 11 40
 ```
 
-[№ 13591052](https://ordinals.com/inscription/ea7cb96a8e9b2b38b8135685f0224065f69f3339a60ea6c02378ca57903ba59bi0) - 2023-06-25 21:51:41 UTC<br>
-![](https://ordbase.github.io/num/13591052.png) 4x ![](https://ordbase.github.io/num/13591052@4x.png)<br>
+[№ 15683559](https://ordinals.com/inscription/95f15b537eb7c385d6625373f35263501da64a6a759aca9faf6f09a54c304989i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683559.png" width="10%"><br>
 ```
-og mint diyphunks 59 0
+og mint diyorditroops 56 50 42 43 38 4 13
 ```
 
-[№ 13511469](https://ordinals.com/inscription/e7e0755dd4f563e90476315244817b2db9f99252e42561e897c438b51e7899fbi0) - 2023-06-25 13:05:25 UTC<br>
-![](https://ordbase.github.io/num/13511469.png) 4x ![](https://ordbase.github.io/num/13511469@4x.png)<br>
+[№ 15683558](https://ordinals.com/inscription/50c90345a4f11861e689836b6abbcfcffa7bb0ea49e5aae520ea68ec48ab0886i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683558.png" width="10%"><br>
 ```
-og mint diyphunks 57 39 38
+og mint diyorditroops 52 50 26 33 4 8 37
 ```
 
-[№ 13499186](https://ordinals.com/inscription/f67fd1e392c481f2eeafbde7ecf39e0f472e5baf2bb13a6ca4c9b7e7384626ddi0) - 2023-06-25 12:53:18 UTC<br>
-![](https://ordbase.github.io/num/13499186.png) 4x ![](https://ordbase.github.io/num/13499186@4x.png)<br>
+[№ 15683557](https://ordinals.com/inscription/94c26ab610bc6aedd46176862db2e41b7a729719bc07cb18dedff23555e5b814i0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683557.png" width="10%"><br>
 ```
-og mint diyphunks 4 38 49 19
+og mint diyorditroops 57 46 26 17 4 16 37
 ```
 
-[№ 13496309](https://ordinals.com/inscription/3df18f2711816384271d7b3399f1d578015502288e8ca082dc0af893513ac16ai0) - 2023-06-25 12:48:39 UTC<br>
-![](https://ordbase.github.io/num/13496309.png) 4x ![](https://ordbase.github.io/num/13496309@4x.png)<br>
+[№ 15683556](https://ordinals.com/inscription/c80bd0837bf077704a6f033c4d3255149648870ed6d6e42b3f83dfa6702ee20ei0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683556.png" width="10%"><br>
 ```
-og mint diyphunks 58 57 39 38
+og mint diyorditroops 54 48 41 33 4 9 40
 ```
 
-[№ 13496308](https://ordinals.com/inscription/626e4aa2ebdba536d3621e65ed8ea796103c410e80c7bcb0070b5efc5e6bd4f4i0) - 2023-06-25 12:48:39 UTC<br>
-![](https://ordbase.github.io/num/13496308.png) 4x ![](https://ordbase.github.io/num/13496308@4x.png)<br>
+[№ 15683551](https://ordinals.com/inscription/c61a22c4895cb80e279493c33b1db223ad4634e96e9ea38356d1d8913d23a4abi0) - 2023-07-09 02:47:00 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15683551.png" width="10%"><br>
 ```
-og mint diyphunks 0 11 37
+og mint diyorditroops 57 4 12 19 37 34
 ```
 
-[№ 13496307](https://ordinals.com/inscription/953cd4f47c80e43515f50f177da0c1d1e64f409ebb9aea92c9a6d94139eb82bai0) - 2023-06-25 12:48:39 UTC<br>
-![](https://ordbase.github.io/num/13496307.png) 4x ![](https://ordbase.github.io/num/13496307@4x.png)<br>
+[№ 15682864](https://ordinals.com/inscription/67922f369b4f2ea447e30ca749950875e7cfda723645b1058079d3e2f990e78ei0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682864.png" width="10%"><br>
 ```
-og mint diyphunks 3 35 52
+og mint diyorditroops 2 38 17
 ```
 
-[№ 13496306](https://ordinals.com/inscription/4b84ec3279ae6c30c14b2f588e770f14e38e78208eb8da999572e4ed2d59852ci0) - 2023-06-25 12:48:39 UTC<br>
-![](https://ordbase.github.io/num/13496306.png) 4x ![](https://ordbase.github.io/num/13496306@4x.png)<br>
+[№ 15682756](https://ordinals.com/inscription/95d1fef71bdf81c8bf6f60c373110bf7aeb8a01a49ca347f72b77272101b51e2i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682756.png" width="10%"><br>
 ```
-og mint diyphunks 6 27
+og mint diyorditroops 55 4 26 27 37 38 48 9 34
 ```
 
-[№ 13419147](https://ordinals.com/inscription/700559633f140cf1e042181f6ba75d11fd86263bb88b1377ad7bd1359f3a3943i0) - 2023-06-24 20:54:38 UTC<br>
-![](https://ordbase.github.io/num/13419147.png) 4x ![](https://ordbase.github.io/num/13419147@4x.png)<br>
+[№ 15682752](https://ordinals.com/inscription/afe098d91c2515531782cb560e5d947384292d7ab800dba337914844c31b04aai0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682752.png" width="10%"><br>
 ```
-og mint diyphunks 4 57 38
+og mint diyorditroops 56 4 24 46 45 36
 ```
 
-[№ 13418907](https://ordinals.com/inscription/54a448aad17203e322b3d421d91c12e1e4c1b1ca46ef2849e52774aeb7a3bd3bi0) - 2023-06-24 20:45:20 UTC<br>
-![](https://ordbase.github.io/num/13418907.png) 4x ![](https://ordbase.github.io/num/13418907@4x.png)<br>
+[№ 15682751](https://ordinals.com/inscription/3dde942a51c959587629d36f1cf7ef78c693555548cc1a3fec5f33a38f6959a2i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682751.png" width="10%"><br>
 ```
-og mint diyphunks 5 57 38
+og mint diyorditroops 55 36 27 4
 ```
 
-[№ 13147501](https://ordinals.com/inscription/b1e30d343706235afb194c1f497f399cb30d65f18e1d5a9d59dec2128f2f8972i0) - 2023-06-22 15:20:10 UTC<br>
-![](https://ordbase.github.io/num/13147501.png) 4x ![](https://ordbase.github.io/num/13147501@4x.png)<br>
+[№ 15682749](https://ordinals.com/inscription/06664ae5ee1999e9f6377fdafc9bfde03dbce7a3ad2c63981cd87749bdda0335i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682749.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 184, 198, 208, 222, 232, 246, 249, 254, 256, 270, 273, 278, 280, 293, 296, 297, 298, 301, 302, 303, 304, 317, 321, 326, 328, 342, 352, 366, 371, 372, 373, 376, 390, 395, 396, 397, 400, 414, 417, 423, 424, 438, 442, 443, 444, 445, 446, 448, 462, 472, 486, 495, 510, 514, 515, 516, 517, 518, 534, 538, 558, 562]
-}
+og mint diyorditroops 4 28 18 20 40 33 45 37 38 27 26 4 46
 ```
 
-[№ 13143605](https://ordinals.com/inscription/6e1b548a7a2396fb2f398d2434da6aa823df75dfe1bf81b9df6896471c9c08c7i0) - 2023-06-22 14:44:05 UTC<br>
-![](https://ordbase.github.io/num/13143605.png) 4x ![](https://ordbase.github.io/num/13143605@4x.png)<br>
+[№ 15682748](https://ordinals.com/inscription/ac9dc6a9a21a5a69464ac247e1616cb5c3a31c1a8fa89dd5b62e7bf7b35d4d33i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682748.png" width="10%"><br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[103, 104, 105, 106, 107, 108, 109, 126, 134, 151, 157, 176, 177, 178, 179, 180, 198, 199, 203, 205, 206, 221, 225, 231, 244, 247, 248, 249, 250, 256, 268, 271, 273, 275, 280, 291, 295, 297, 299, 305, 315, 319, 320, 321, 322, 329, 339, 343, 345, 347, 350, 353, 363, 367, 369, 371, 374, 377, 387, 391, 392, 393, 394, 397, 401, 411, 417, 425, 436, 448, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471]}
+og mint diyorditroops 57 4 26 5 30 31 47
 ```
 
-[№ 13136015](https://ordinals.com/inscription/76d7d506935a66d964b1d3803079ef1365151d3a072f08bb03437731e2cafcc2i0) - 2023-06-22 13:46:11 UTC<br>
-![](https://ordbase.github.io/num/13136015.png) 4x ![](https://ordbase.github.io/num/13136015@4x.png)<br>
+[№ 15682746](https://ordinals.com/inscription/2b54cc199948d9b20bdddc274938ccc13b8b647d2db5b9a933b1a20d2aadb512i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682746.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[1, 5, 16, 17, 18, 19, 20, 21, 25, 29, 40, 42, 44, 45, 49, 53, 54, 55, 56, 57, 64, 66, 67, 69, 70, 71, 73, 82, 88, 89, 90, 91, 92, 93, 95, 97, 107, 121, 126, 127, 128, 131, 145, 155, 159, 169, 179, 182, 184, 193, 199, 200, 203, 205, 209, 217, 227, 229, 233, 240, 241, 252, 258, 264, 269, 271, 272, 273, 276, 282, 285, 286, 287, 288, 292, 293, 295, 298, 299, 300, 306, 307, 308, 311, 313, 319, 324, 325, 329, 330, 335, 337, 344, 349, 353, 358, 361, 369, 381, 385, 394, 404, 409, 415, 417, 418, 419, 427, 428, 429, 434, 438, 439, 440, 454, 459, 460, 461, 462, 463, 464, 479, 484, 485, 486, 487, 488, 489, 490, 491, 494, 496, 499, 500, 501, 502, 503, 509, 510, 511, 512, 515, 517, 518, 520, 521, 523, 534, 535, 536, 539, 540, 542, 544, 546, 547, 559, 560, 566, 567, 568]
-}
+og mint diyorditroops 3 27 37 36
 ```
 
-[№ 13113811](https://ordinals.com/inscription/6781bdd5098862b7783807f272f780352ffdc7c1419eea5352e3dfa47962665fi0) - 2023-06-22 09:59:59 UTC<br>
-![](https://ordbase.github.io/num/13113811.png) 4x ![](https://ordbase.github.io/num/13113811@4x.png)<br>
+[№ 15682743](https://ordinals.com/inscription/14e7b79d983f22e9de29c69c266af9639e55ee5516d44a49dc7912eed0589017i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682743.png" width="10%"><br>
 ```
-you can inscribe using the slug 'orangepixels'. Like this but use your own "g" values:
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[28, 29, 30, 31, 32, 33, 34, 41, 42, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 64, 65, 66, 73, 74, 75, 76, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 98, 99, 100, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 123, 124, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 220, 221, 222, 223, 227, 228, 229, 230, 233, 243, 244, 245, 246, 252, 253, 257, 266, 267, 268, 269, 270, 274, 276, 277, 279, 281, 289, 290, 291, 292, 293, 294, 295, 298, 300, 301, 303, 305, 315, 316, 317, 318, 319, 324, 325, 328, 340, 341, 342, 343, 344, 345, 346, 347, 350, 351, 352, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 376, 386, 387, 388, 389, 390, 391, 392, 400, 414, 415, 418, 424, 438, 439, 443, 444, 445, 448, 462, 463, 472, 486, 487, 488, 495, 510, 511, 512, 513, 514, 515, 516, 517, 518, 534, 535, 536, 537, 538, 558, 559, 560, 561, 562]
-}
+og mint diyorditroops 23 27 36 37 38 45 2 24 48
 ```
 
-[№ 13113810](https://ordinals.com/inscription/2b79a933e4e9a19c73d7fbb83e26f8ea82da78aaf9f4637f8eed5f406bfe5222i0) - 2023-06-22 09:59:59 UTC<br>
-![](https://ordbase.github.io/num/13113810.png) 4x ![](https://ordbase.github.io/num/13113810@4x.png)<br>
+[№ 15682742](https://ordinals.com/inscription/70b3b944b37bc9f40d5c32c57ffe986668b6ef7b7ae61a0cc99930f26945d105i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682742.png" width="10%"><br>
 ```
-you can inscribe using the slug 'orangepixels'. Like this but use your own "g" values:
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 177, 178, 179, 180, 181, 182, 184, 198, 200, 207, 208, 222, 223, 232, 246, 256, 270, 272, 273, 274, 278, 279, 280, 293, 296, 297, 298, 302, 303, 304, 317, 320, 321, 322, 326, 327, 328, 342, 352, 366, 376, 390, 391, 400, 414, 415, 420, 424, 438, 440, 444, 447, 448, 462, 465, 466, 470, 472, 486, 491, 492, 493, 495, 510, 514, 515, 516, 517, 518, 534, 538, 558, 562]
-}
+og mint diyorditroops 54 2 26 49 21 23 37
 ```
 
-[№ 13110720](https://ordinals.com/inscription/1640e43a4f4474abf6d3b9b8583cc0c614fab1cb8b614a96b8bde18dd71e6b01i0) - 2023-06-22 09:39:23 UTC<br>
-![](https://ordbase.github.io/num/13110720.png) 4x ![](https://ordbase.github.io/num/13110720@4x.png)<br>
+[№ 15682740](https://ordinals.com/inscription/633a987dcf133364f7500af1546d8d9f42de93cb4238dac85f3d6e658b5d6d02i0) - 2023-07-09 02:34:23 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15682740.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[126, 127, 128, 129, 130, 131, 135, 136, 137, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 161, 162, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 186, 187, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 210, 211, 220, 221, 222, 223, 224, 226, 227, 228, 229, 230, 231, 232, 233, 235, 244, 245, 246, 247, 248, 250, 251, 252, 253, 254, 255, 256, 257, 259, 268, 269, 270, 271, 272, 274, 276, 277, 278, 279, 281, 283, 293, 294, 295, 296, 298, 299, 300, 301, 302, 303, 304, 305, 307, 318, 319, 320, 322, 323, 324, 325, 326, 327, 328, 330, 343, 344, 346, 348, 349, 350, 351, 352, 366, 368, 371, 373, 374, 375, 377, 390, 391, 393, 395, 397, 398, 399, 401, 413, 414, 415, 416, 417, 418, 422, 423, 424, 436, 438, 439, 440, 441, 442, 443, 444, 447, 448, 449, 450, 451, 460, 462, 463, 465, 466, 468, 469, 472, 473, 474, 475, 486, 487, 489, 490, 492, 493]
-}
+og mint diyorditroops 4 17 19 27 40 8
 ```
 
-[№ 13110712](https://ordinals.com/inscription/0984c32aaafbbc15ed3044d7718c9af899c2dc5435e11cdaf916f5b558f98b37i0) - 2023-06-22 09:39:23 UTC<br>
-![](https://ordbase.github.io/num/13110712.png) 4x ![](https://ordbase.github.io/num/13110712@4x.png)<br>
+[№ 15633999](https://ordinals.com/inscription/f384bb141bc0cef77eceda06a99d9860115ca45fd687c729dcea246612d46b1fi0) - 2023-07-08 23:20:54 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15633999.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[136, 137, 138, 149, 150, 151, 152, 159, 160, 161, 162, 163, 172, 177, 178, 183, 186, 187, 197, 203, 207, 209, 211, 222, 223, 228, 231, 233, 248, 249, 252, 253, 254, 255, 256, 274, 275, 276, 277, 278, 279, 280, 281, 298, 299, 300, 302, 303, 305, 322, 323, 324, 326, 327, 329, 346, 347, 348, 349, 350, 351, 352, 353, 354, 369, 371, 372, 373, 374, 375, 376, 378, 390, 392, 393, 394, 396, 397, 398, 399, 400, 401, 413, 415, 416, 417, 418, 419, 425, 437, 439, 440, 441, 443, 444, 445, 446, 447, 463, 464, 465, 466, 469, 470, 472, 488, 489, 490, 491, 492, 494, 495, 497]
-}
+og mint diyorditroops 57 49 29 21 40 4 8
 ```
 
-[№ 13089747](https://ordinals.com/inscription/789e5bda4cda426edd21a8a2facc59850e0c8d7cdb877b273d8398a20783b067i0) - 2023-06-22 03:40:22 UTC<br>
-![](https://ordbase.github.io/num/13089747.png) 4x ![](https://ordbase.github.io/num/13089747@4x.png)<br>
+[№ 15633998](https://ordinals.com/inscription/0f5a8e87d2afa95880aaa6614e00557997e48e0924b735056ce8d679e24a8727i0) - 2023-07-08 23:20:54 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15633998.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[57, 58, 81, 82, 105, 106, 128, 129, 130, 131, 132, 133, 134, 151, 153, 154, 159, 174, 175, 177, 178, 183, 184, 198, 200, 201, 202, 203, 204, 205, 206, 208, 222, 225, 226, 232, 246, 249, 250, 256, 270, 273, 274, 280, 293, 298, 302, 304, 317, 321, 322, 328, 342, 345, 346, 352, 366, 369, 370, 372, 373, 376, 390, 391, 393, 394, 399, 400, 414, 416, 417, 418, 420, 422, 424, 438, 439, 441, 442, 443, 445, 447, 448, 462, 464, 465, 466, 468, 470, 472, 486, 487, 489, 491, 493, 495, 510, 512, 514, 515, 516, 517, 518, 534, 535, 537, 538, 558, 560, 562]
-}
+og mint diyorditroops 55 50 42 35 38 2 12
 ```
 
-[№ 13085469](https://ordinals.com/inscription/b31cfaf1a46168024bcbd41d10420c8632bfa7b288243ac78ac08f3871743894i0) - 2023-06-22 03:01:53 UTC<br>
-![](https://ordbase.github.io/num/13085469.png) 4x ![](https://ordbase.github.io/num/13085469@4x.png)<br>
+[№ 15585391](https://ordinals.com/inscription/f34c158aa044088b9bb5d35f3d8bf9adfa5032c2effc6579658b363c6fb686e3i0) - 2023-07-08 21:23:31 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15585391.png" width="10%"><br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[424]}
+og mint diyorditroops 54 3 5 26 46 33 27
 ```
 
-[№ 13085321](https://ordinals.com/inscription/2f30eb372554a101735741a7c21bd3084dbe68d29b8eba699c5f452e5ae0a29fi0) - 2023-06-22 03:01:53 UTC<br>
-![](https://ordbase.github.io/num/13085321.png) 4x ![](https://ordbase.github.io/num/13085321@4x.png)<br>
+[№ 15585390](https://ordinals.com/inscription/2ba7cf45b33e05c34454125e2e9cf8ecacf792d8fa6c3c5eff90c3195f59f7f2i0) - 2023-07-08 21:23:31 UTC<br>
+<img src="https://orc721.github.io/orditroops.starter/num/15585390.png" width="10%"><br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 159, 160, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 184, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 208, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 232, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 256, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 280, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 297, 302, 304, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 328, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 352, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 372, 373, 376, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 400, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 424, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 443, 444, 445, 448, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 472, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 495, 496, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 539, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 563, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575]
-}
+og mint diyorditroops 55 4 14 26 46 34 23
 ```
 
-[№ 13085070](https://ordinals.com/inscription/e8787ce40ecd5906e810e6111caf543790a01404bce605684796e653c0fd885ai0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13085070.png) 4x ![](https://ordbase.github.io/num/13085070@4x.png)<br>
+[№ 15178808](https://ordinals.com/inscription/f47ff79cdd478746815d88298a4412cf7d8db75c870f9c58a3a9fe0ca48e1e8ei0) - 2023-07-07 13:35:11 UTC<br>
+![](https://ordbase.github.io/num/15178808.png) 4x ![](https://ordbase.github.io/num/15178808@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[438]}
+og mint diyphunks 59 8 21 54 56 52
 ```
 
-[№ 13085063](https://ordinals.com/inscription/40d59f44365a272bf785cad1f199dc9c2a14272b6eb436d9c71392fe43663e3ei0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13085063.png) 4x ![](https://ordbase.github.io/num/13085063@4x.png)<br>
+[№ 15178779](https://ordinals.com/inscription/742c512df05f24047aa0904a55839357ba12a653c52da07526ae4d4486791158i0) - 2023-07-07 13:35:11 UTC<br>
+![](https://ordbase.github.io/num/15178779.png) 4x ![](https://ordbase.github.io/num/15178779@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[390]}
+og mint diyphunks 59 3 57 51 55
 ```
 
-[№ 13085062](https://ordinals.com/inscription/38e6843ad1d4ed0fffa6bb4fac7ae9ab6e45d22a81df40b35040415820f7423di0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13085062.png) 4x ![](https://ordbase.github.io/num/13085062@4x.png)<br>
+[№ 15178778](https://ordinals.com/inscription/13cba3ac760bf25c0094477f716e572306fb8edd8a1f0abf6e12ad287ed621f9i0) - 2023-07-07 13:35:11 UTC<br>
+![](https://ordbase.github.io/num/15178778.png) 4x ![](https://ordbase.github.io/num/15178778@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[414]}
+og mint diyphunks 58 4 27 37 38 55
 ```
 
-[№ 13084919](https://ordinals.com/inscription/83ab9a72ab0a49d8595f28824e6812845cd70dd1475cab7e9d9cf7c9644e0eb7i0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084919.png) 4x ![](https://ordbase.github.io/num/13084919@4x.png)<br>
+[№ 15143225](https://ordinals.com/inscription/b49b167ec1261348e228f21429d8e2978cacbc6c7f2acdd6b162573ec12ed952i0) - 2023-07-07 11:06:56 UTC<br>
+![](https://ordbase.github.io/num/15143225.png) 4x ![](https://ordbase.github.io/num/15143225@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[10,11,29,35,54,55,59,65,66,80,83,84,88,104,105,107,108,111,112,119,124,125,128,129,130,134,135,140,141,148,149,151,154,157,160,161,162,163,171,172,175,183,184,185,194,196,197,198,209,210,219,222,233,242,245,247,248,249,253,254,255,257,266,269,273,278,281,283,294,305,307,318,323,329,331,342,353,365,367,371,372,373,374,375,376,377,378,379,390,391,394,395,396,397,401,415,424,425,439,446,447,449,464,465,466,467,468,469,471,472,473,474,489,491,493,494,495,511,513,515,536,537,538,539,559,561,563]}
+og mint diymaxibiz 1 74 51 34
 ```
 
-[№ 13084904](https://ordinals.com/inscription/f4d61efe96457ae872504b382d0ed6edc7436bce2141a49f245e9cd3318fdbaei0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084904.png) 4x ![](https://ordbase.github.io/num/13084904@4x.png)<br>
+[№ 15134937](https://ordinals.com/inscription/926908d95c4e28f2d7ddac011ce7787eaf35f1313b599841115a5f694a220fe3i0) - 2023-07-07 09:32:49 UTC<br>
+![](https://ordbase.github.io/num/15134937.png) 4x ![](https://ordbase.github.io/num/15134937@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[518]}
+og mint diymaxibiz 84 77 21 74 30
 ```
 
-[№ 13084782](https://ordinals.com/inscription/624abacd683a8d182bc70525eafa379ca0f5d427670f881d4f22f82431d19264i0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084782.png) 4x ![](https://ordbase.github.io/num/13084782@4x.png)<br>
+[№ 15134912](https://ordinals.com/inscription/446bec1fcad0f3404ddb547970624cf04628b8ca2f3727110d9c1980965077b6i0) - 2023-07-07 09:32:49 UTC<br>
+![](https://ordbase.github.io/num/15134912.png) 4x ![](https://ordbase.github.io/num/15134912@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[462]}
+og mint diymaxibiz 89 78 21 32 74
 ```
 
-[№ 13084724](https://ordinals.com/inscription/6aef8f5a03bbbeb724592d168a10563813f96eadff63f3224b45b984ccfa1142i0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084724.png) 4x ![](https://ordbase.github.io/num/13084724@4x.png)<br>
+[№ 15134871](https://ordinals.com/inscription/2e80ffbf04b4ddb99c4ee105aaa50b5c9fe5a4102c9ca20f1f284447c536795fi0) - 2023-07-07 09:32:49 UTC<br>
+![](https://ordbase.github.io/num/15134871.png) 4x ![](https://ordbase.github.io/num/15134871@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[562]}
+og mint diymaxibiz 87 3 78 35 73
 ```
 
-[№ 13084618](https://ordinals.com/inscription/24710548e2c7b5b701e75cf97b82f51f28b200c9d958ba8e342ecf9cc3849bf8i0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084618.png) 4x ![](https://ordbase.github.io/num/13084618@4x.png)<br>
+[№ 15134787](https://ordinals.com/inscription/15e96e37ce28e450f9dfd02c7efcfe5e78458b0741416f37b206c3bc9121c49ai0) - 2023-07-07 09:32:49 UTC<br>
+![](https://ordbase.github.io/num/15134787.png) 4x ![](https://ordbase.github.io/num/15134787@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[558]}
+og mint diymaxibiz 88 77 21 27 74
 ```
 
-[№ 13084617](https://ordinals.com/inscription/8e1b48ad620f168abf940d343479294c6e8a61ec1b193c7513225e8e6de47e6ci0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084617.png) 4x ![](https://ordbase.github.io/num/13084617@4x.png)<br>
+[№ 15132934](https://ordinals.com/inscription/f1d4f2f12613fb2abdf4efbed303d06778bbf52a9cee65e91763f281aebc5aaai0) - 2023-07-07 09:20:01 UTC<br>
+![](https://ordbase.github.io/num/15132934.png) 4x ![](https://ordbase.github.io/num/15132934@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[538]}
+og mint diymaxibiz 87 1 66 73 30
 ```
 
-[№ 13084574](https://ordinals.com/inscription/9378c617652406db34710dde798777b1ebb75ecd797d38cdbee23eb668e7aaadi0) - 2023-06-22 02:54:51 UTC<br>
-![](https://ordbase.github.io/num/13084574.png) 4x ![](https://ordbase.github.io/num/13084574@4x.png)<br>
+[№ 15132816](https://ordinals.com/inscription/92f6eb28761aaf692e3697c8163d4a94b976fdd57d9f230b24eb3da581c7bc6ci0) - 2023-07-07 09:20:01 UTC<br>
+![](https://ordbase.github.io/num/15132816.png) 4x ![](https://ordbase.github.io/num/15132816@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[115, 116, 117, 128, 129, 130, 131, 132, 133, 134, 139, 141, 151, 159, 163, 165, 174, 184, 187, 188, 189, 198, 208, 211, 213, 222, 232, 235, 237, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 260, 261, 270, 271, 281, 283, 285, 293, 295, 297, 302, 305, 307, 309, 317, 319, 324, 329, 331, 332, 333, 342, 343, 347, 349, 353, 355, 357, 366, 368, 369, 370, 372, 374, 375, 376, 379, 381, 390, 400, 403, 404, 405, 414, 424, 427, 429, 438, 443, 444, 445, 446, 448, 450, 453, 462, 468, 471, 472, 473, 476, 486, 493, 499, 510, 514, 515, 516, 517, 518, 519, 520, 521, 522, 534, 538, 558, 562]
-}
+og mint diymaxibiz 79 70 73 32
 ```
 
-[№ 13083700](https://ordinals.com/inscription/c352d2284179866e72c027239a7c55311544450f07a7ca84704ec528fd072afbi0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083700.png) 4x ![](https://ordbase.github.io/num/13083700@4x.png)<br>
+[№ 15132808](https://ordinals.com/inscription/e022f6c58c00ce7e24ef71d1b957ad039e590449d7b6cfc67e99cbd4bd66a668i0) - 2023-07-07 09:20:01 UTC<br>
+![](https://ordbase.github.io/num/15132808.png) 4x ![](https://ordbase.github.io/num/15132808@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[53,54,55,63,64,65,76,77,78,79,80,86,87,88,89,90,100,101,102,103,104,110,111,112,113,114,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,148,149,150,151,152,153,155,157,158,159,160,161,162,172,174,175,176,182,183,184,186,196,198,199,200,201,205,206,207,208,210,219,220,222,223,226,228,231,232,234,235,243,244,246,251,256,258,259,266,267,270,280,283,284,289,290,291,293,297,302,304,307,308,309,313,314,315,317,328,331,332,333,337,338,342,352,356,357,361,362,366,372,373,376,380,381,385,386,390,400,404,405,409,410,414,424,428,429,434,438,443,444,445,448,452,462,472,486,495,510,514,515,516,517,518,534,538,558,562]}
+og mint diymaxibiz 86 7 78 31 74
 ```
 
-[№ 13083697](https://ordinals.com/inscription/5b534e8dfdf286d6a722dbbd09a9ad00082c241e3546728fbbbf798165c745f2i0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083697.png) 4x ![](https://ordbase.github.io/num/13083697@4x.png)<br>
+[№ 15132426](https://ordinals.com/inscription/1614306584ec128a7e95a5bcd43639fb04c8a8447ff7a6fec5752218390ed82bi0) - 2023-07-07 09:20:01 UTC<br>
+![](https://ordbase.github.io/num/15132426.png) 4x ![](https://ordbase.github.io/num/15132426@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[6,7,15,16,29,32,38,41,52,55,63,66,76,79,87,90,100,104,110,114,124,128,129,130,131,132,133,134,138,148,151,159,162,173,174,184,185,198,208,222,232,246,256,270,280,293,297,302,304,317,328,342,352,366,371,372,373,376,390,395,397,400,414,420,424,438,443,444,445,448,462,472,486,495,510,514,515,516,517,518,534,538,558,562]}
+og mint diymaxibiz 85 13 78 30 73
 ```
 
-[№ 13083682](https://ordinals.com/inscription/2f95d81b053cefa8840e3ef8196da4b8a019d472893952e63cae3e9ff267b7c9i0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083682.png) 4x ![](https://ordbase.github.io/num/13083682@4x.png)<br>
+[№ 15132379](https://ordinals.com/inscription/4b4b49db384cfc027e7a1fe969ffe679e05b8d0e06b0eb519b536c82c8089cf0i0) - 2023-07-07 09:20:01 UTC<br>
+![](https://ordbase.github.io/num/15132379.png) 4x ![](https://ordbase.github.io/num/15132379@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[136,137,138,149,150,151,152,159,160,161,162,163,172,177,178,183,186,187,197,203,207,209,211,222,223,228,231,233,248,249,252,253,254,255,256,274,275,276,277,278,279,280,281,298,299,300,302,303,305,322,323,324,326,327,329,346,347,348,349,350,351,352,353,354,369,371,372,373,374,375,376,378,390,392,393,394,396,397,398,399,400,401,413,415,416,417,418,419,425,437,439,440,441,443,444,445,446,447,463,464,465,466,469,470,472,488,489,490,491,492,494,495,497]}
+og mint diymaxibiz 86 18 21 78 31 73
 ```
 
-[№ 13083675](https://ordinals.com/inscription/5d18189819739ba861d60d9354777b39c6bf56a40da9d3000faf423e658dcbbai0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083675.png) 4x ![](https://ordbase.github.io/num/13083675@4x.png)<br>
+[№ 15132355](https://ordinals.com/inscription/8c4f84b643595937d6f7eaf3a6c228ab8d3ca896975dcc264af67d3654543f2bi0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132355.png) 4x ![](https://ordbase.github.io/num/15132355@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[103,104,105,106,107,108,109,110,111,126,127,128,129,130,131,132,133,134,135,136,149,150,151,152,153,154,155,156,157,158,159,160,161,173,174,175,176,177,178,179,180,181,182,183,184,185,196,197,198,199,200,202,203,204,205,206,207,208,209,220,221,222,223,224,226,227,229,230,232,233,234,243,244,245,246,247,248,249,250,254,255,256,257,258,267,268,269,270,271,275,277,280,281,282,291,292,293,304,305,306,315,316,317,321,322,326,327,328,329,330,339,340,341,342,345,346,350,351,352,353,354,363,364,365,366,376,377,378,387,388,389,390,391,392,399,400,401,402,411,412,413,414,415,416,423,424,425,426,435,436,437,438,443,444,445,448,449,450,462,472,486,495,510,514,515,516,517,518,534,538,558,562]}
+og mint diymaxibiz 2 63 73
 ```
 
-[№ 13083664](https://ordinals.com/inscription/a27c01c20c3b8d80682300a29f255b8c9bec8f71dc5315be450e6f2425aa8ea0i0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083664.png) 4x ![](https://ordbase.github.io/num/13083664@4x.png)<br>
+[№ 15132317](https://ordinals.com/inscription/1fa8ac02a429b11e7e7e4e32b95db9ca8b7e012e63b86744ccbb248b3d68c998i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132317.png) 4x ![](https://ordbase.github.io/num/15132317@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[128,129,130,131,132,133,134,135,136,151,161,174,186,197,200,201,203,204,205,206,207,208,210,221,225,227,229,230,231,233,245,251,252,254,256,257,269,275,276,277,278,279,280,281,282,283,293,299,300,301,302,303,307,317,323,324,325,326,327,328,330,331,341,348,349,350,351,352,354,355,365,375,377,379,389,391,392,393,399,400,401,402,414,415,416,417,418,437,438,439,441,442,443,448,460,462,463,464,466,467,468,469,470,471,484,486,487,488,489,491,492,494,495]}
+og mint diymaxibiz 79 77 30
 ```
 
-[№ 13083634](https://ordinals.com/inscription/c5ec7bde39b972852900947893d56f0fc39dec436bbf12c078ef5ffb93d1fc4ai0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083634.png) 4x ![](https://ordbase.github.io/num/13083634@4x.png)<br>
+[№ 15132316](https://ordinals.com/inscription/d07bbf3991e84e80ee08e1c79382248048b09a378d5a15744209be515549f956i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132316.png) 4x ![](https://ordbase.github.io/num/15132316@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[128,129,130,131,132,133,134,151,152,153,154,155,156,157,158,159,174,175,176,177,178,179,180,181,182,183,184,198,199,200,201,202,203,204,205,206,207,208,222,223,224,225,226,227,228,229,230,231,232,246,247,248,249,250,251,252,253,254,255,256,270,271,275,276,280,293,294,295,297,299,300,302,304,317,318,319,323,324,328,342,343,344,345,346,347,348,349,350,351,352,366,367,368,369,370,371,372,373,374,375,376,390,391,392,393,394,395,396,397,398,399,400,414,415,416,417,418,422,423,424,438,439,440,441,443,444,445,447,448,462,463,464,465,466,470,471,472,486,488,489,490,491,492,493,494,495,510,514,515,516,517,518,534,538,558,562]}
+og mint diymaxibiz 83 73 61
 ```
 
-[№ 13083623](https://ordinals.com/inscription/02205245c0e2ed23933fb4da37cf207c0554020a26cf6d4d4e26dd7b779c0423i0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083623.png) 4x ![](https://ordbase.github.io/num/13083623@4x.png)<br>
+[№ 15132315](https://ordinals.com/inscription/5e2c10ccd0cf089453046bbd729fd5442985c724474571bd02b3ed227bc82836i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132315.png) 4x ![](https://ordbase.github.io/num/15132315@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[1,4,18,21,24,27,30,31,32,33,34,35,36,37,38,39,40,43,46,50,53,65,68,71,73,76,79,80,81,82,83,84,85,86,87,90,93,96,99,102,112,115,118,120,122,125,128,129,130,131,132,133,134,137,140,142,144,146,148,151,159,162,164,166,168,170,172,174,184,186,188,190,192,194,196,198,208,210,212,214,216,218,220,222,232,234,236,238,240,242,244,246,256,258,260,262,264,266,268,270,280,282,284,286,289,291,293,297,302,304,306,308,310,313,315,317,328,330,332,334,336,338,340,342,352,354,356,358,360,362,364,366,372,373,376,378,380,382,384,386,388,390,400,402,404,406,408,410,412,414,424,426,428,430,432,434,436,438,443,444,445,448,450,452,454,456,458,460,462,472,474,476,478,480,482,484,486,495,498,500,502,504,506,508,510,514,515,516,517,518,521,524,526,528,530,532,534,538,544,547,550,552,554,556,558,562,564,565,566,567,570,573]}
+og mint diymaxibiz 0 43 73
 ```
 
-[№ 13083605](https://ordinals.com/inscription/66881345d56a5eddafef575da50075b3437d5defdde2c4826f48fde81332d456i0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083605.png) 4x ![](https://ordbase.github.io/num/13083605@4x.png)<br>
+[№ 15132223](https://ordinals.com/inscription/5cdf58246a14057d2f57c76367cdb307e4119bf6ebe702ae89186a1ad9690816i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132223.png) 4x ![](https://ordbase.github.io/num/15132223@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[75,76,90,91,99,101,113,115,122,126,136,140,146,151,159,164,170,176,177,178,179,180,181,182,188,194,199,207,212,218,236,242,260,266,284,290,308,313,318,319,327,328,333,336,342,343,344,350,351,352,358,360,382,384,394,395,396,406,408,415,419,423,430,433,440,441,442,443,444,445,446,453,457,477,482,500,507,522,523,532,533,534,544,545,546,559,560,561,562,563,564,565,566,567]}
+og mint diymaxibiz 86 11 69 73
 ```
 
-[№ 13083604](https://ordinals.com/inscription/cadd9469fc369b12d9587e0f7f129568f5b50a6651c0adf7aa214793c374f7bci0) - 2023-06-22 01:40:39 UTC<br>
-![](https://ordbase.github.io/num/13083604.png) 4x ![](https://ordbase.github.io/num/13083604@4x.png)<br>
+[№ 15132186](https://ordinals.com/inscription/73c5f7b5da180b7a4da74fd90425f9c971c3f503b0c24131c2a989b252f06bd7i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132186.png) 4x ![](https://ordbase.github.io/num/15132186@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[156,157,158,159,160,179,180,181,182,183,184,185,203,204,206,207,209,210,227,228,230,231,233,234,251,252,253,254,255,256,257,258,275,276,277,300,301,302,303,304,305,321,322,324,325,326,343,344,345,347,348,349,350,366,367,368,369,370,375,389,390,391,392,393,394,395,396,397,398,399,400,413,414,415,416,417,418,419,420,421,422,423,424,436,437,441,442,445,448,462,463,464,467,468,470,471,484,485,486,487,489,490,491,495,496,497]}
+og mint diymaxibiz 88 6 55 35 74
 ```
 
-[№ 13082035](https://ordinals.com/inscription/85f560acb12cb52637c9f3e132f47ec0a7cfc84bd65b1984a9b3a482f365a411i0) - 2023-06-22 00:44:28 UTC<br>
-![](https://ordbase.github.io/num/13082035.png) 4x ![](https://ordbase.github.io/num/13082035@4x.png)<br>
+[№ 15132123](https://ordinals.com/inscription/be7217ea9431c013c09b7e1cab652dec0c25273db3d70b6799067732e3048a84i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132123.png) 4x ![](https://ordbase.github.io/num/15132123@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[32,37,56,61,80,85,101,102,103,104,105,106,107,108,109,110,111,126,135,136,150,160,161,174,185,198,209,222,232,233,246,255,256,270,278,279,294,295,296,297,298,299,300,301,302,318,326,327,342,351,352,366,376,377,390,401,414,425,438,448,449,462,471,472,485,486,487,488,489,490,491,492,493,494,495,512,517,536,541,560,565]}
+og mint diymaxibiz 87 8 68 35 73
 ```
 
-[№ 13081342](https://ordinals.com/inscription/e56dc70b50aad0769f9c3c6c6ca593cc89f42fa443873331e2edd2fab181c290i0) - 2023-06-21 23:59:11 UTC<br>
-![](https://ordbase.github.io/num/13081342.png) 4x ![](https://ordbase.github.io/num/13081342@4x.png)<br>
+[№ 15132010](https://ordinals.com/inscription/0e540d96f6f0cda61dac5fdc53ac9908c7dd2a4783f3fb223c2d3ca2e40258d0i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132010.png) 4x ![](https://ordbase.github.io/num/15132010@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[53,54,55,63,64,65,77,80,86,88,89,101,103,105,109,111,112,113,125,126,128,129,130,131,132,134,135,137,149,151,152,153,154,155,159,161,174,175,176,177,178,179,184,198,199,200,201,202,203,208,222,223,224,225,226,227,232,246,247,248,249,250,251,256,270,271,273,275,278,280,294,295,296,298,299,302,304,318,319,321,323,326,328,340,342,343,344,345,346,347,352,354,365,366,367,368,369,370,371,376,377,390,391,392,393,394,395,400,412,413,414,415,416,418,420,422,424,425,426,438,439,440,441,443,445,448,461,462,463,464,465,466,467,472,473,484,486,487,488,489,490,491,495,498,510,511,512,513,514,515,516,517,518,534,535,536,537,538,558,559,560,561,562]}
+og mint diymaxibiz 87 0 21 43 74 59
 ```
 
-[№ 13080633](https://ordinals.com/inscription/33ade70dc59b2cfbe777558adb745949a1b44ca69871320ad661329e3271c6d8i0) - 2023-06-21 23:29:30 UTC<br>
-![](https://ordbase.github.io/num/13080633.png) 4x ![](https://ordbase.github.io/num/13080633@4x.png)<br>
+[№ 15132009](https://ordinals.com/inscription/c18591a3cef66b0747e406cbcff1633b6459179afcb4dc171332e927abb0cbf5i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15132009.png) 4x ![](https://ordbase.github.io/num/15132009@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"orangepixels","g":[130,131,136,153,156,159,161,177,180,181,182,183,185,201,202,203,204,205,206,207,208,209,225,226,227,228,229,230,231,232,233,249,253,254,257,273,274,275,277,278,279,281,296,297,298,299,300,301,303,304,305,306,321,322,323,324,326,328,329,341,344,346,347,348,349,350,351,352,354,364,388,393,394,395,400,412,416,417,418,419,420,421,422,423,424,437,440,441,442,443,444,445,447,448,462,463,464,465,467,468,469,471,487,488,489,490,492,493,495]}
+og mint diymaxibiz 88 83 39
 ```
 
-[№ 13079975](https://ordinals.com/inscription/728728063e254e69b278374973f30cce224fe8ee76efb3e8e7d254a492e261dfi0) - 2023-06-21 23:14:19 UTC<br>
-![](https://ordbase.github.io/num/13079975.png) 4x ![](https://ordbase.github.io/num/13079975@4x.png)<br>
+[№ 15131918](https://ordinals.com/inscription/ec8a49d59a7a3fe556cb764255841c654487d3c53434f8b6924cbbacde6fa6b9i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15131918.png) 4x ![](https://ordbase.github.io/num/15131918@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[0, 1, 3, 4, 6, 7, 9, 10, 12, 13, 15, 16, 18, 19, 21, 22, 24, 25, 27, 28, 30, 31, 33, 34, 36, 37, 39, 40, 42, 43, 45, 46, 48, 49, 51, 52, 54, 55, 57, 58, 60, 61, 63, 64, 66, 67, 69, 70, 72, 73, 75, 76, 78, 79, 81, 82, 84, 85, 87, 88, 90, 91, 93, 94, 96, 97, 99, 100, 102, 112, 114, 115, 117, 118, 120, 121, 123, 124, 128, 129, 130, 131, 132, 133, 134, 138, 139, 141, 142, 144, 145, 147, 148, 151, 152, 153, 154, 155, 156, 157, 158, 159, 162, 163, 165, 166, 168, 169, 171, 172, 174, 184, 186, 187, 189, 190, 192, 193, 195, 196, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 210, 211, 213, 214, 216, 217, 219, 220, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 234, 235, 237, 238, 240, 241, 243, 244, 246, 256, 258, 259, 261, 262, 264, 265, 267, 268, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 282, 283, 285, 286, 288, 289, 291, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 306, 307, 309, 310, 312, 313, 315, 317, 328, 330, 331, 333, 334, 336, 337, 339, 340, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 354, 355, 357, 358, 360, 361, 363, 364, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 378, 379, 381, 382, 384, 385, 387, 388, 390, 400, 402, 403, 405, 406, 408, 409, 411, 412, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 426, 427, 429, 430, 432, 433, 435, 436, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 450, 451, 453, 454, 456, 457, 459, 460, 462, 472, 474, 475, 477, 478, 480, 481, 483, 484, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 498, 499, 501, 502, 504, 505, 507, 508, 510, 511, 512, 513, 514, 515, 516, 517, 518, 522, 523, 525, 526, 528, 529, 531, 532, 534, 538, 544, 546, 547, 549, 550, 552, 553, 555, 556, 558, 559, 560, 561, 562, 564, 565, 567, 568, 570, 571, 573, 574]
-}
+og mint diymaxibiz 86 0 21 51 37
 ```
 
-[№ 13079968](https://ordinals.com/inscription/ea158398b208bced849c842d60913b82de5109d7e788e4c9dcf5a377e0cbdfd0i0) - 2023-06-21 23:14:19 UTC<br>
-![](https://ordbase.github.io/num/13079968.png) 4x ![](https://ordbase.github.io/num/13079968@4x.png)<br>
+[№ 15131909](https://ordinals.com/inscription/f2e3d4359991e8669e8b10202174bb97e7e6e6002b9683cf306cc1e50925aab0i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15131909.png) 4x ![](https://ordbase.github.io/num/15131909@4x.png)<br>
 ```
-"p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 177, 178, 179, 180, 181, 184, 198, 200, 206, 208, 222, 224, 226, 227, 228, 230, 232, 246, 248, 250, 252, 254, 256, 270, 272, 274, 276, 278, 280, 293, 295, 297, 300, 302, 304, 317, 319, 321, 324, 326, 328, 342, 344, 346, 348, 350, 352, 366, 368, 370, 372, 374, 376, 390, 392, 394, 396, 398, 400, 414, 416, 418, 419, 420, 422, 424, 438, 440, 446, 448, 462, 464, 465, 466, 467, 468, 469, 472, 486, 488, 495, 510, 512, 514, 515, 516, 517, 518, 534, 536, 538, 558, 560, 562]
-}
+og mint diymaxibiz 86 0 44 37 73
 ```
 
-[№ 13079734](https://ordinals.com/inscription/0fd13e2dbe58bc8afda8f7971f6589eabe47be1c77a9fbe029b689e57f400520i0) - 2023-06-21 23:13:30 UTC<br>
-![](https://ordbase.github.io/num/13079734.png) 4x ![](https://ordbase.github.io/num/13079734@4x.png)<br>
+[№ 15131906](https://ordinals.com/inscription/7852e28338da14b84a0a72e5ccb10c69cd10d554060ab232fa1441615c237457i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15131906.png) 4x ![](https://ordbase.github.io/num/15131906@4x.png)<br>
 ```
-"p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 130, 132, 134, 174, 184, 222, 232, 270, 280, 297, 302, 317, 328, 342, 376, 390, 424, 438, 472, 486, 514, 516, 518, 534, 562]
-}
+og mint diymaxibiz 86 5 78 25 74 31
 ```
 
-[№ 13079473](https://ordinals.com/inscription/76e26481c4a160c8257b14c016f484c092b0ccef828bca033cda1aad7e06a33ei0) - 2023-06-21 22:58:58 UTC<br>
-![](https://ordbase.github.io/num/13079473.png) 4x ![](https://ordbase.github.io/num/13079473@4x.png)<br>
+[№ 15131901](https://ordinals.com/inscription/000160ebbddd50176b608531135db9800891a80dc59bc72c0bc8100cba5a5a71i0) - 2023-07-07 09:12:39 UTC<br>
+![](https://ordbase.github.io/num/15131901.png) 4x ![](https://ordbase.github.io/num/15131901@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 297, 302, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 372, 373, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 443, 444, 445, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575]
-}
+og mint diymaxibiz 86 0 46 37 72
 ```
 
-[№ 13078212](https://ordinals.com/inscription/ed160be6ce445e6ef85f2808edb0d8b63055f90601dd5e86f94025373416936ei0) - 2023-06-21 21:20:52 UTC<br>
-![](https://ordbase.github.io/num/13078212.png) 4x ![](https://ordbase.github.io/num/13078212@4x.png)<br>
+[№ 15126312](https://ordinals.com/inscription/a3d9d4c475f77372e644f9b5712aae8ed6b49cd73af718d5b3b645ab1bc5a047i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126312.png) 4x ![](https://ordbase.github.io/num/15126312@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[1, 4, 18, 21, 24, 27, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 43, 46, 50, 53, 65, 68, 71, 73, 76, 79, 80, 81, 82, 83, 84, 85, 86, 87, 90, 93, 96, 99, 102, 112, 115, 118, 120, 122, 125, 128, 129, 130, 131, 132, 133, 134, 137, 140, 142, 144, 146, 148, 151, 159, 162, 164, 166, 168, 170, 172, 174, 184, 186, 188, 190, 192, 194, 196, 198, 208, 210, 212, 214, 216, 218, 220, 222, 232, 234, 236, 238, 240, 242, 244, 246, 256, 258, 260, 262, 264, 266, 268, 270, 280, 282, 284, 286, 289, 291, 293, 297, 302, 304, 306, 308, 310, 313, 315, 317, 328, 330, 332, 334, 336, 338, 340, 342, 352, 354, 356, 358, 360, 362, 364, 366, 372, 373, 376, 378, 380, 382, 384, 386, 388, 390, 400, 402, 404, 406, 408, 410, 412, 414, 424, 426, 428, 430, 432, 434, 436, 438, 443, 444, 445, 448, 450, 452, 454, 456, 458, 460, 462, 472, 474, 476, 478, 480, 482, 484, 486, 495, 498, 500, 502, 504, 506, 508, 510, 514, 515, 516, 517, 518, 521, 524, 526, 528, 530, 532, 534, 538, 544, 547, 550, 552, 554, 556, 558, 562, 564, 565, 566, 567, 570, 573]
-}
+og mint diymaxibiz 86 1 77
 ```
 
-[№ 13078020](https://ordinals.com/inscription/30916a5ba63a36eb54a4bb88f8bb9cca4014c996dd853fa5f71d71baa3ed3addi0) - 2023-06-21 21:14:10 UTC<br>
-![](https://ordbase.github.io/num/13078020.png) 4x ![](https://ordbase.github.io/num/13078020@4x.png)<br>
+[№ 15126271](https://ordinals.com/inscription/96c72c818648a9286e530c26796929cab8c91732ce5a5bbdf310a7902de87da9i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126271.png) 4x ![](https://ordbase.github.io/num/15126271@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[1, 4, 18, 21, 24, 27, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 43, 46, 50, 53, 65, 68, 71, 73, 76, 79, 80, 81, 82, 83, 84, 85, 86, 87, 90, 93, 96, 99, 102, 112, 115, 118, 120, 122, 125, 128, 129, 130, 131, 132, 133, 134, 137, 140, 142, 144, 146, 148, 151, 159, 162, 164, 166, 168, 170, 172, 174, 184, 186, 188, 190, 192, 194, 196, 198, 208, 210, 212, 214, 216, 218, 220, 222, 232, 234, 236, 238, 240, 242, 244, 246, 256, 258, 260, 262, 264, 266, 268, 270, 280, 282, 284, 286, 289, 291, 293, 304, 306, 308, 310, 313, 315, 317, 328, 330, 332, 334, 336, 338, 340, 342, 352, 354, 356, 358, 360, 362, 364, 366, 376, 378, 380, 382, 384, 386, 388, 390, 400, 402, 404, 406, 408, 410, 412, 414, 424, 426, 428, 430, 432, 434, 436, 438, 448, 450, 452, 454, 456, 458, 460, 462, 472, 474, 476, 478, 480, 482, 484, 486, 495, 498, 500, 502, 504, 506, 508, 510, 514, 515, 516, 517, 518, 521, 524, 526, 528, 530, 532, 534, 538, 544, 547, 550, 552, 554, 556, 558, 562, 564, 565, 566, 567, 570, 573]
-}
+og mint diymaxibiz 87 4 42 74
 ```
 
-[№ 13078017](https://ordinals.com/inscription/31d8e3f00eb85faf8827e4b33e2a187891822aaa7f3d7ebc4cc70f5d32f197c4i0) - 2023-06-21 21:14:10 UTC<br>
-![](https://ordbase.github.io/num/13078017.png) 4x ![](https://ordbase.github.io/num/13078017@4x.png)<br>
+[№ 15126263](https://ordinals.com/inscription/f70330889be324364e02c16b39e9e74b77b132b444df2fc9f61d3c8cc7425790i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126263.png) 4x ![](https://ordbase.github.io/num/15126263@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 22, 25, 28, 41, 44, 47, 48, 51, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 66, 69, 74, 77, 88, 91, 94, 97, 100, 103, 104, 105, 106, 107, 108, 109, 110, 113, 116, 118, 120, 123, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 138, 140, 142, 144, 146, 149, 150, 151, 155, 156, 159, 160, 162, 164, 166, 168, 170, 172, 173, 174, 179, 180, 184, 186, 188, 190, 192, 194, 196, 197, 198, 204, 208, 210, 212, 214, 216, 218, 220, 221, 222, 232, 234, 236, 238, 240, 242, 244, 245, 246, 256, 258, 260, 262, 264, 266, 268, 269, 270, 280, 282, 284, 286, 289, 291, 292, 293, 297, 302, 304, 306, 308, 310, 313, 315, 316, 317, 328, 330, 332, 334, 336, 338, 340, 341, 342, 352, 354, 356, 358, 361, 363, 365, 366, 372, 373, 376, 378, 380, 382, 385, 387, 389, 390, 400, 402, 404, 406, 409, 411, 414, 424, 426, 428, 430, 433, 436, 438, 443, 444, 445, 448, 450, 452, 454, 458, 460, 462, 472, 474, 476, 478, 480, 482, 484, 486, 495, 498, 500, 502, 504, 506, 508, 510, 514, 515, 516, 517, 518, 521, 524, 526, 528, 530, 532, 534, 538, 544, 547, 550, 552, 554, 556, 558, 562, 564, 565, 566, 567, 570, 573]
-}
+og mint diymaxibiz 87 0 73 40
 ```
 
-[№ 13077993](https://ordinals.com/inscription/e0e025a51dca8194e3501e7a527e9de09aba71c75bd90e5cd76d3a602cacc03di0) - 2023-06-21 21:14:10 UTC<br>
-![](https://ordbase.github.io/num/13077993.png) 4x ![](https://ordbase.github.io/num/13077993@4x.png)<br>
+[№ 15126179](https://ordinals.com/inscription/0ecedf6252667e2f99ec338c1c8a135d8ba02516ebb156cbcc7d7251aca912fbi0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126179.png) 4x ![](https://ordbase.github.io/num/15126179@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 184, 198, 208, 222, 232, 246, 256, 270, 280, 293, 296, 297, 298, 302, 303, 304, 317, 328, 342, 352, 366, 372, 373, 376, 390, 400, 414, 424, 438, 443, 444, 445, 448, 462, 472, 486, 495, 510, 514, 515, 516, 517, 518, 534, 538, 558, 562]
-}
+og mint diymaxibiz 83 42 43
 ```
 
-[№ 13077982](https://ordinals.com/inscription/ce5e551264d6e20086cb4eab22e05364d1d1fed550d1b128f139df8f060c6f10i0) - 2023-06-21 21:14:10 UTC<br>
-![](https://ordbase.github.io/num/13077982.png) 4x ![](https://ordbase.github.io/num/13077982@4x.png)<br>
+[№ 15126178](https://ordinals.com/inscription/503682fd862ff956b518104d689b270df61c22ad6963c70a8232986b8e90c373i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126178.png) 4x ![](https://ordbase.github.io/num/15126178@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 198, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 222, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 246, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 270, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 293, 297, 302, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 317, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 342, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 366, 372, 373, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 390, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 414, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 438, 443, 444, 445, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 462, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 486, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 510, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 534, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 558, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575]
-}
+og mint diymaxibiz 83 40 29
 ```
 
-[№ 13077939](https://ordinals.com/inscription/576ab68cf670a05199b159ca23079cacc3d5621b9e1653438a287614e7b72c56i0) - 2023-06-21 21:14:10 UTC<br>
-![](https://ordbase.github.io/num/13077939.png) 4x ![](https://ordbase.github.io/num/13077939@4x.png)<br>
+[№ 15126108](https://ordinals.com/inscription/76fc04baf832de7e1f60ebe6d49345e9cd70a1129f8f48e5676efb028afe7fefi0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126108.png) 4x ![](https://ordbase.github.io/num/15126108@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 184, 198, 208, 222, 225, 226, 227, 228, 229, 230, 232, 246, 256, 270, 273, 274, 278, 279, 280, 284, 293, 298, 303, 304, 308, 317, 321, 326, 328, 332, 341, 342, 352, 356, 366, 371, 373, 376, 377, 378, 379, 380, 390, 399, 404, 414, 422, 424, 429, 438, 440, 442, 443, 444, 445, 447, 453, 462, 464, 466, 470, 477, 486, 489, 495, 500, 510, 514, 515, 516, 517, 518, 520, 521, 522, 523, 534, 538, 558, 562]
-}
+og mint diymaxibiz 89 14 27 38 62
 ```
 
-[№ 13074994](https://ordinals.com/inscription/f316f94f7067a8d7a5164fd4de32781a6ce2daab941bf6855a974f907727ab29i0) - 2023-06-21 19:18:02 UTC<br>
-![](https://ordbase.github.io/num/13074994.png) 4x ![](https://ordbase.github.io/num/13074994@4x.png)<br>
+[№ 15126106](https://ordinals.com/inscription/4e33923bfe0ecf157b34e09f946dccd6d6917a354e4032b4e85e4568c5e51553i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126106.png) 4x ![](https://ordbase.github.io/num/15126106@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 176, 182, 201, 202, 203, 204, 205, 224, 228, 230, 247, 252, 255, 270, 274, 280, 293, 296, 297, 298, 299, 305, 316, 321, 324, 330, 340, 345, 346, 347, 354, 364, 369, 372, 375, 378, 389, 392, 393, 394, 395, 398, 401, 414, 418, 424, 439, 447, 464, 465, 466, 467, 468, 469, 470]
-}
+og mint diymaxibiz 85 18 21 78 74 33
 ```
 
-[№ 13074993](https://ordinals.com/inscription/c24b6755d276593e7fd53499729a1f22d756b854af17cc39e4b10b5130daf748i0) - 2023-06-21 19:18:02 UTC<br>
-![](https://ordbase.github.io/num/13074993.png) 4x ![](https://ordbase.github.io/num/13074993@4x.png)<br>
+[№ 15126105](https://ordinals.com/inscription/65fca349e66b01cdbc5dba65c031a8e3505de6f818e6ff96eec992e32e547f64i0) - 2023-07-07 08:56:47 UTC<br>
+![](https://ordbase.github.io/num/15126105.png) 4x ![](https://ordbase.github.io/num/15126105@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[128, 129, 130, 131, 132, 133, 134, 151, 159, 174, 184, 198, 208, 222, 232, 246, 256, 270, 272, 273, 274, 275, 276, 277, 278, 279, 280, 293, 294, 296, 297, 299, 300, 301, 303, 304, 316, 317, 320, 321, 322, 323, 324, 325, 326, 327, 328, 341, 342, 344, 345, 346, 347, 350, 351, 352, 366, 376, 390, 393, 394, 395, 396, 397, 398, 399, 400, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 437, 438, 439, 440, 441, 442, 446, 447, 448, 449, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 534, 536, 537, 538, 539, 540, 541, 542, 543, 544, 558, 562, 563, 564, 565, 566, 567]
-}
+og mint diymaxibiz 18 33 64 74
 ```
 
-[№ 13074992](https://ordinals.com/inscription/a627b1231cd69a20901b275d6239884b15091bb2329a03a777067c643f0b66dei0) - 2023-06-21 19:18:02 UTC<br>
-![](https://ordbase.github.io/num/13074992.png) 4x ![](https://ordbase.github.io/num/13074992@4x.png)<br>
+[№ 15122851](https://ordinals.com/inscription/6694ad46d15e53ba1fd3d10f4ffca349f435f9672b07881b3a4e9d61172326e9i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122851.png) 4x ![](https://ordbase.github.io/num/15122851@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[57, 58, 59, 60, 61, 80, 86, 103, 111, 127, 133, 135, 138, 139, 140, 141, 151, 153, 155, 157, 158, 159, 160, 161, 163, 165, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 184, 186, 188, 189, 193, 195, 197, 199, 201, 203, 205, 207, 209, 211, 212, 217, 218, 220, 222, 224, 226, 228, 230, 231, 232, 233, 234, 235, 242, 243, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 268, 269, 270, 271, 280, 294, 295, 297, 298, 301, 302, 304, 318, 319, 321, 325, 328, 342, 343, 352, 367, 376, 391, 392, 395, 397, 400, 415, 416, 417, 423, 424, 439, 440, 443, 444, 445, 448, 464, 465, 471, 488, 489, 490, 494, 512, 513, 514, 515, 516, 517, 536, 537, 538, 539, 540, 560, 561, 562, 563, 564]
-}
+og mint diymaxibiz 89 79 52 33 23 74
 ```
 
-[№ 13074991](https://ordinals.com/inscription/157fdb5ebe82c12cefb6d48356d79bf5646e267980a2234294a8a330a4234be7i0) - 2023-06-21 19:18:02 UTC<br>
-![](https://ordbase.github.io/num/13074991.png) 4x ![](https://ordbase.github.io/num/13074991@4x.png)<br>
+[№ 15122850](https://ordinals.com/inscription/6dd06fd72a9cc9527abf7a0d8fd7a4fd9797db45576fe0c1b33313db1ce3781ai0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122850.png) 4x ![](https://ordbase.github.io/num/15122850@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"orangepixels",
-   "g":[74, 75, 76, 77, 98, 101, 102, 122, 126, 146, 150, 161, 170, 174, 185, 194, 198, 209, 218, 219, 220, 221, 222, 227, 231, 233, 236, 242, 251, 252, 255, 257, 260, 266, 269, 275, 276, 279, 281, 283, 290, 293, 297, 299, 300, 303, 305, 306, 314, 317, 321, 323, 325, 327, 329, 330, 338, 341, 345, 347, 349, 351, 353, 354, 362, 365, 369, 371, 373, 374, 375, 377, 379, 386, 389, 393, 395, 398, 399, 401, 404, 410, 413, 414, 416, 417, 419, 423, 425, 428, 429, 434, 438, 439, 440, 449, 458, 473]
-}
+og mint diymaxibiz 87 14 78 33 72 29
 ```
 
-[№ 12815131](https://ordinals.com/inscription/bf04d99e929cac673310ad1dd8fd0fdc5984e3d3cf5ae34e923070ce28cd13e5i0) - 2023-06-19 22:36:02 UTC<br>
-![](https://ordbase.github.io/num/12815131.png) 4x ![](https://ordbase.github.io/num/12815131@4x.png)<br>
+[№ 15122849](https://ordinals.com/inscription/ec798ca297d7e0f24c74e1039c37326677f9010081b5abc8e8dbc3acdf2e34d4i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122849.png) 4x ![](https://ordbase.github.io/num/15122849@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[45,5,7,31,37]}
+og mint diymaxibiz 89 13 69 34 61
 ```
 
-[№ 12814506](https://ordinals.com/inscription/4794f79b31820e582410029cbbc60c61787ce4526a624a208a11bf3199170a1ei0) - 2023-06-19 22:24:30 UTC<br>
-![](https://ordbase.github.io/num/12814506.png) 4x ![](https://ordbase.github.io/num/12814506@4x.png)<br>
+[№ 15122702](https://ordinals.com/inscription/d4cf6f9a6ea11151b268c705c485dc5bd814a593d7039b6a115c470fc8db8b80i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122702.png) 4x ![](https://ordbase.github.io/num/15122702@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [46, 3, 11, 33, 37]
-}
+og mint diymaxibiz 88 19 12 21
 ```
 
-[№ 12814505](https://ordinals.com/inscription/d4b9a929a172f308f9b8f42dcb1c9ec83a73484a51fc3643cccbddbe2a25821bi0) - 2023-06-19 22:24:30 UTC<br>
-![](https://ordbase.github.io/num/12814505.png) 4x ![](https://ordbase.github.io/num/12814505@4x.png)<br>
+[№ 15122682](https://ordinals.com/inscription/228112e9e65eec736dab80ad3e90b52c40806c5acdbe4ea5098a8cbf6c557372i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122682.png) 4x ![](https://ordbase.github.io/num/15122682@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [41, 0, 18, 20, 38]
-}
+og mint diymaxibiz 84 79 72 71
 ```
 
-[№ 12814500](https://ordinals.com/inscription/fb621244085099ee99714e121268bdecf7580664a44539384dfe50e4a2a3bde3i0) - 2023-06-19 22:24:30 UTC<br>
-![](https://ordbase.github.io/num/12814500.png) 4x ![](https://ordbase.github.io/num/12814500@4x.png)<br>
+[№ 15122664](https://ordinals.com/inscription/16ec918262a5645821476e6c790a3853f1694ff35b519f437001a23db7380e63i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122664.png) 4x ![](https://ordbase.github.io/num/15122664@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [44, 2, 13, 37]
-}
+og mint diymaxibiz 19 20 79 71 75 44 45 46 47 48 49 50 51 52 53 24 23 22 21 29 28 27
 ```
 
-[№ 12814499](https://ordinals.com/inscription/f3d441616b27631f1989ed1ebb8f2924cfb863bdc75c6bc4f26d3530dcf48c6ci0) - 2023-06-19 22:24:30 UTC<br>
-![](https://ordbase.github.io/num/12814499.png) 4x ![](https://ordbase.github.io/num/12814499@4x.png)<br>
+[№ 15122645](https://ordinals.com/inscription/ce0f3df3d52bfb258a9c65b4e23af21da4ca13c09be8dbe2871bd414d063f84fi0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122645.png) 4x ![](https://ordbase.github.io/num/15122645@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [49, 3, 33, 36]
-}
+og mint diymaxibiz 0 66 73
 ```
 
-[№ 12814282](https://ordinals.com/inscription/32cf7ad06b0efc684c4d8620a74f0ca9c07a04f987b82b348297ce14aa6e591fi0) - 2023-06-19 22:24:30 UTC<br>
-![](https://ordbase.github.io/num/12814282.png) 4x ![](https://ordbase.github.io/num/12814282@4x.png)<br>
+[№ 15122598](https://ordinals.com/inscription/bc04c72ed7f1109fbeedcdec1c0925c7110fa89e99f9e17c9179f9177681ae27i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122598.png) 4x ![](https://ordbase.github.io/num/15122598@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [44, 1, 11, 25, 38]
-}
+og mint diymaxibiz 87 12 73 39
 ```
 
-[№ 12813985](https://ordinals.com/inscription/13f0b1d49f2a5d3106299d147caaa4bab4f04091988ee1635bc6e690836180b5i0) - 2023-06-19 22:16:15 UTC<br>
-![](https://ordbase.github.io/num/12813985.png) 4x ![](https://ordbase.github.io/num/12813985@4x.png)<br>
+[№ 15122548](https://ordinals.com/inscription/13e62cec27c00e4ac55ff69751f13ec60b5083f97dc6081614a6ba27e8de28e5i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122548.png) 4x ![](https://ordbase.github.io/num/15122548@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[47, 4, 17, 23, 37]}
+og mint diymaxibiz 87 79 73
 ```
 
-[№ 12813975](https://ordinals.com/inscription/49dc8538607ba2e87e4d3826ce0220b84ef60277fbbadf2c0f56ee122a8cc040i0) - 2023-06-19 22:16:15 UTC<br>
-![](https://ordbase.github.io/num/12813975.png) 4x ![](https://ordbase.github.io/num/12813975@4x.png)<br>
+[№ 15122547](https://ordinals.com/inscription/164724e2d6cb61a13a78b4d8a1ec506fa874ce5e54dfe58ebcf21a495f82aae3i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122547.png) 4x ![](https://ordbase.github.io/num/15122547@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[44, 4, 10, 26, 36]}
+og mint diymaxibiz 14 59 74
 ```
 
-[№ 12813582](https://ordinals.com/inscription/8674373b344746373d970f84abed3e420d66d1e70751c279ba8104f5a7999b9fi0) - 2023-06-19 22:04:01 UTC<br>
-![](https://ordbase.github.io/num/12813582.png) 4x ![](https://ordbase.github.io/num/12813582@4x.png)<br>
+[№ 15122546](https://ordinals.com/inscription/d43ce41c7fbdc9ef83ce098284cefcb6c808b5533eb266a860e1b79e42e270b0i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122546.png) 4x ![](https://ordbase.github.io/num/15122546@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[47,2,11]}
+og mint diymaxibiz 89 15 38
 ```
 
-[№ 12813539](https://ordinals.com/inscription/7268d43b395b4505227dba8733eeb2c5479097a9e99e168c9147342b3ee3ab87i0) - 2023-06-19 22:04:01 UTC<br>
-![](https://ordbase.github.io/num/12813539.png) 4x ![](https://ordbase.github.io/num/12813539@4x.png)<br>
+[№ 15122545](https://ordinals.com/inscription/f18793bf8501a5b9c5dd8c26f8c264e322c8203115c53bc3f25c63128981a270i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122545.png) 4x ![](https://ordbase.github.io/num/15122545@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48,0,28]}
+og mint diymaxibiz 87 18 33
 ```
 
-[№ 12813249](https://ordinals.com/inscription/783d9c1ff838ccda1d8569550d90fddb6ae276088355ed4da4fa96ccc4485a7di0) - 2023-06-19 22:04:01 UTC<br>
-![](https://ordbase.github.io/num/12813249.png) 4x ![](https://ordbase.github.io/num/12813249@4x.png)<br>
+[№ 15122476](https://ordinals.com/inscription/21333ba08586aebbba9351a95ab28ab1c0fb42bf89ad0c823d2059d3727f63f2i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122476.png) 4x ![](https://ordbase.github.io/num/15122476@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48, 39, 11, 24, 38]}
+og mint diymaxibiz 11 78
 ```
 
-[№ 12813248](https://ordinals.com/inscription/b693f22bccd7ca5d505d40aa57b7ae5b44cc56d166dab5ac20a906fc2a585148i0) - 2023-06-19 22:04:01 UTC<br>
-![](https://ordbase.github.io/num/12813248.png) 4x ![](https://ordbase.github.io/num/12813248@4x.png)<br>
+[№ 15122461](https://ordinals.com/inscription/0a4008b7813a919ff26d33f8b6415730c1772ea6a65f17677652c3d2af2a55aci0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122461.png) 4x ![](https://ordbase.github.io/num/15122461@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[42, 3, 17, 28, 37]}
+og mint diymaxibiz 88 80 78 74 30
 ```
 
-[№ 12812904](https://ordinals.com/inscription/7015619e313dd337aaf82b160336c51df7e56976d69951f95c333d978c8ff59ei0) - 2023-06-19 22:01:15 UTC<br>
-![](https://ordbase.github.io/num/12812904.png) 4x ![](https://ordbase.github.io/num/12812904@4x.png)<br>
+[№ 15122456](https://ordinals.com/inscription/e5c61b1a871c593b1b0c6e3c5d57546177c724346b636776921b9777f613fa94i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122456.png) 4x ![](https://ordbase.github.io/num/15122456@4x.png)<br>
 ```
-{
-  "p":"orc-721",
-  "op":"mint",
-  "s":"diymartians",
-  "g":[41,0,39,9,31,37]
-}
+og mint diymaxibiz 87 3 71 26 39
 ```
 
-[№ 12812599](https://ordinals.com/inscription/4143dab530aba24070ee9fe2cd69a745ea5640c7c3ba4cfc9fd813ac6fa0c19fi0) - 2023-06-19 20:27:03 UTC<br>
-![](https://ordbase.github.io/num/12812599.png) 4x ![](https://ordbase.github.io/num/12812599@4x.png)<br>
+[№ 15122440](https://ordinals.com/inscription/4c25345411fd0b1b8c6d413b3dd9f04e294d5ae888a3f44d0194c47d97394b51i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122440.png) 4x ![](https://ordbase.github.io/num/15122440@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,29,28,27,26,25,24,23,22,21,20,30,31,32,33,34,35,36,37,39]}
+og mint diymaxibiz 89 3 78 74 35
 ```
 
-[№ 12808107](https://ordinals.com/inscription/fdac80fb5f37ae6ba3c45c5987b0a542dc2c0edfbf9e94f4fbc3b3dcf61e8f82i0) - 2023-06-19 19:52:29 UTC<br>
-![](https://ordbase.github.io/num/12808107.png) 4x ![](https://ordbase.github.io/num/12808107@4x.png)<br>
+[№ 15122427](https://ordinals.com/inscription/99ba4b9b19733cfc0d457cd6d58b1a1fac9743865ae24cc5cae2c1299a89341ei0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122427.png) 4x ![](https://ordbase.github.io/num/15122427@4x.png)<br>
 ```
-{
-
-	"p": "orc-721",
-
-	"op": "mint",
-
-	"s": "diymartians",
-
-	"g": [40, 1, 29, 17]
-
-}
+og mint diymaxibiz 88 18 59 73 38
 ```
 
-[№ 12806781](https://ordinals.com/inscription/eba81168fc34be4cb1e25e58a30bf51d011d593a7e06ada723b8377a2474d772i0) - 2023-06-19 19:37:52 UTC<br>
-![](https://ordbase.github.io/num/12806781.png) 4x ![](https://ordbase.github.io/num/12806781@4x.png)<br>
+[№ 15122418](https://ordinals.com/inscription/65ab06e5de193318155651efc2fad6691665cbf70dd924aff91db1b3740ea6b4i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122418.png) 4x ![](https://ordbase.github.io/num/15122418@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"diymartians",
-   "g":[39, 27]
-}
+og mint diymaxibiz 88 0 68 35 74
 ```
 
-[№ 12806723](https://ordinals.com/inscription/f1f67af0c3ca8c614aa4080958bac57a5c2c0a22046009cc67f3d67bd39e82ebi0) - 2023-06-19 19:37:52 UTC<br>
-![](https://ordbase.github.io/num/12806723.png) 4x ![](https://ordbase.github.io/num/12806723@4x.png)<br>
+[№ 15122417](https://ordinals.com/inscription/76994818dac54fe03afe377f1d9bad88007623318af2fbe3a1363649382b3054i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122417.png) 4x ![](https://ordbase.github.io/num/15122417@4x.png)<br>
 ```
-{
-   "p":"orc-721",
-   "op":"mint",
-   "s":"diymartians",
-   "g":[40, 0, 30, 37, 17]
-}
+og mint diymaxibiz 87 79 68 33
 ```
 
-[№ 12804425](https://ordinals.com/inscription/10633c95ea80e4e66e64718cdc2069a68673a5f19080674cda1a0272eb2fd084i0) - 2023-06-19 19:13:51 UTC<br>
-![](https://ordbase.github.io/num/12804425.png) 4x ![](https://ordbase.github.io/num/12804425@4x.png)<br>
+[№ 15122416](https://ordinals.com/inscription/5351b60defe53c37573aee59c604c9f60b6f1d13473a7a9df9d8dcac0045f721i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122416.png) 4x ![](https://ordbase.github.io/num/15122416@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[49, 3, 39, 13, 12, 31, 8, 34, 35, 36]}
+og mint diymaxibiz 87 0 68 21
 ```
 
-[№ 12804424](https://ordinals.com/inscription/3052a1c7dbd2637b7f3fc85b0f3f1113a0a8ff86e37c4a112e2dcab886498a18i0) - 2023-06-19 19:13:51 UTC<br>
-![](https://ordbase.github.io/num/12804424.png) 4x ![](https://ordbase.github.io/num/12804424@4x.png)<br>
+[№ 15122415](https://ordinals.com/inscription/c6df50398cecc1f11ab225e9cf9e723ab90b7488d8fa85201b0eb2d6bcfd0a47i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122415.png) 4x ![](https://ordbase.github.io/num/15122415@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48, 0, 33, 8, 7, 34, 35]}
+og mint diymaxibiz 79 68 30
 ```
 
-[№ 12803922](https://ordinals.com/inscription/6c0ff85548bd6b8ee7f1d7abbc369769ba1c490156ca6f4544f3b4dd650af7c6i0) - 2023-06-19 19:11:29 UTC<br>
-![](https://ordbase.github.io/num/12803922.png) 4x ![](https://ordbase.github.io/num/12803922@4x.png)<br>
+[№ 15122414](https://ordinals.com/inscription/b3bb06a79bf668fa8e3fd75b452065d127588611074d3a3ca2ff8308cba7f9b0i0) - 2023-07-07 08:54:18 UTC<br>
+![](https://ordbase.github.io/num/15122414.png) 4x ![](https://ordbase.github.io/num/15122414@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[2,7,15,28,37]}
+og mint diymaxibiz 87 0 68 39 73
 ```
 
-[№ 12803921](https://ordinals.com/inscription/03541d93c4050202ab45aff04d651f89bd3518cf5072314e9a12909565d39228i0) - 2023-06-19 19:11:29 UTC<br>
-![](https://ordbase.github.io/num/12803921.png) 4x ![](https://ordbase.github.io/num/12803921@4x.png)<br>
+[№ 15120194](https://ordinals.com/inscription/eddbd015a0db9e4f07b46b3f7984f1fb2b5f5643a13d9db998dfbd156e9770c0i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120194.png) 4x ![](https://ordbase.github.io/num/15120194@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[2,7,15,22,28]}
+og mint diymaxibiz 88 3 69 35 72
 ```
 
-[№ 12803920](https://ordinals.com/inscription/f6c8cbfaaef77e762d51eba3d915027fc577da175e8ed414337adb3e6d45e7c1i0) - 2023-06-19 19:11:29 UTC<br>
-![](https://ordbase.github.io/num/12803920.png) 4x ![](https://ordbase.github.io/num/12803920@4x.png)<br>
+[№ 15120193](https://ordinals.com/inscription/5411e32e3d91cf0d4e6695661b1d7674da0aeb85d037c535ba6ff3fa16224270i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120193.png) 4x ![](https://ordbase.github.io/num/15120193@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[2,7,15,22,28,37]}
+og mint diymaxibiz 85 9 68 73 30
 ```
 
-[№ 12802288](https://ordinals.com/inscription/623c0c88dfbd0e7922a30e0db2add357af7e9398ad065c062a208e03930ca67ei0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802288.png) 4x ![](https://ordbase.github.io/num/12802288@4x.png)<br>
+[№ 15120178](https://ordinals.com/inscription/cf29008e6d71ab6afc38bb0bb115c073d6dc019807e771168596c0702c2a1cddi0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120178.png) 4x ![](https://ordbase.github.io/num/15120178@4x.png)<br>
 ```
-{
-  "p":"orc-721",
-  "op":"mint",
-  "s":"diymartians",
-  "g":[45, 1, 10, 26, 38]
-}
+og mint diymaxibiz 84 17 8 35
 ```
 
-[№ 12802280](https://ordinals.com/inscription/be3cc67c9682c15d0b9c13b07b982ba0b1a1daa55a84a72b7a734f8e41bd59fei0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802280.png) 4x ![](https://ordbase.github.io/num/12802280@4x.png)<br>
+[№ 15120140](https://ordinals.com/inscription/a0abe2e379d80c9cfc4e2c505025105a38baad544cc08fab3d27d724f4c4ba8di0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120140.png) 4x ![](https://ordbase.github.io/num/15120140@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48,2,17,29]}
+og mint diymaxibiz 88 19 83 40
 ```
 
-[№ 12802279](https://ordinals.com/inscription/c5385b529c308963490f24b937a73873ba3d8a3606cf2ac3129c615ed82a72afi0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802279.png) 4x ![](https://ordbase.github.io/num/12802279@4x.png)<br>
+[№ 15120115](https://ordinals.com/inscription/aca2fb57b3e2761dded9a512977e6b54b7aa2100b18b79fb872d94105d696a52i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120115.png) 4x ![](https://ordbase.github.io/num/15120115@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[49,2,17,28]}
+og mint diymaxibiz 84 19 42 73
 ```
 
-[№ 12802278](https://ordinals.com/inscription/e7d2e25962d659b28c4349b1714a8555576258d87c429c763d1d1efd0915a280i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802278.png) 4x ![](https://ordbase.github.io/num/12802278@4x.png)<br>
+[№ 15120114](https://ordinals.com/inscription/85b613f5261a8f6423c2deaaf10eceafd5513d747ac5f8f7a042940a10b7d44ai0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120114.png) 4x ![](https://ordbase.github.io/num/15120114@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[0,13,33,36]}
+og mint diymaxibiz 89
 ```
 
-[№ 12802277](https://ordinals.com/inscription/83860385c110934c53ba0280d38177b01a84eaff620d607d0ee7c58bff5e4c7fi0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802277.png) 4x ![](https://ordbase.github.io/num/12802277@4x.png)<br>
+[№ 15120104](https://ordinals.com/inscription/0a7f002237f65e321f81d94056e587fda90f61017270926fc4458238fb2f6133i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120104.png) 4x ![](https://ordbase.github.io/num/15120104@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[49,1,30,7]}
+og mint diymaxibiz 88 19 12 21 31
 ```
 
-[№ 12802276](https://ordinals.com/inscription/3563fcb4dc324c3facdfae80510fb02f825ac49a0765d54045e4a31993cfa57ci0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802276.png) 4x ![](https://ordbase.github.io/num/12802276@4x.png)<br>
+[№ 15120089](https://ordinals.com/inscription/9019b53bed4e30d41aeae8f7a4ba95549d39030b440fd726c4856432ce9a330ei0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15120089.png) 4x ![](https://ordbase.github.io/num/15120089@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[44,2,15,36,33]}
+og mint diymaxibiz 87
 ```
 
-[№ 12802275](https://ordinals.com/inscription/21bf41f2c65c859df022a2558fd5487c493b38b870641b981de3698cc9a03f74i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802275.png) 4x ![](https://ordbase.github.io/num/12802275@4x.png)<br>
+[№ 15119413](https://ordinals.com/inscription/3d6fa06e3741de3ce55e50af411200a1710c7e5aa3f9b196ba2e23c712bca97di0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15119413.png) 4x ![](https://ordbase.github.io/num/15119413@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[44,2,33,39]}
+og mint diymaxibiz 87 11 78 73 32
 ```
 
-[№ 12802274](https://ordinals.com/inscription/25b42cdbe01a817ac38ad24362f720a9360a9d32530d21e30043a7f74f8a0b70i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802274.png) 4x ![](https://ordbase.github.io/num/12802274@4x.png)<br>
+[№ 15119412](https://ordinals.com/inscription/67ae883b8a26dc6ead20e53406ffe068b3131c4a1de037fe457093618aa4a363i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15119412.png) 4x ![](https://ordbase.github.io/num/15119412@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[41,0,32,39]}
+og mint diymaxibiz 84 18 78 74 21 30
 ```
 
-[№ 12802273](https://ordinals.com/inscription/df8cedf6b86640ef3e5b6488d592fc962c3338ad4e09253c4ede2e33d8ae3e4ci0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802273.png) 4x ![](https://ordbase.github.io/num/12802273@4x.png)<br>
+[№ 15119408](https://ordinals.com/inscription/1dabca502e4098f853dd2acd1c7616b41fcdf58fd2214873b665ef57159af52di0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15119408.png) 4x ![](https://ordbase.github.io/num/15119408@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48,4,31,39]}
+og mint diymaxibiz 84 19 42 73 59
 ```
 
-[№ 12802272](https://ordinals.com/inscription/b5d866dd88427a1d8dfe58127a3ae91950e26709ea5ae912dc549a71e2c10d49i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802272.png) 4x ![](https://ordbase.github.io/num/12802272@4x.png)<br>
+[№ 15119391](https://ordinals.com/inscription/e253c6efe901146fecc106b04c4dcda59e2ab3c623be4d9bc2a8f3970a582e05i0) - 2023-07-07 08:48:08 UTC<br>
+![](https://ordbase.github.io/num/15119391.png) 4x ![](https://ordbase.github.io/num/15119391@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48,2,7,33]}
+og mint diymaxibiz 17 36 64 72
 ```
 
-[№ 12802271](https://ordinals.com/inscription/ba3eae6b3f80ec6edcb976ce420c53c313923ca9a8bc7c7a7923f7de91879f37i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802271.png) 4x ![](https://ordbase.github.io/num/12802271@4x.png)<br>
+[№ 15116000](https://ordinals.com/inscription/da141a221a30db514e3086d0b4c217c213a09d47fd063c6f38228582449e2e0bi0) - 2023-07-07 08:41:51 UTC<br>
+![](https://ordbase.github.io/num/15116000.png) 4x ![](https://ordbase.github.io/num/15116000@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[48,2,31,39]}
+og mint diymaxibiz 84 18 1 72 33
 ```
 
-[№ 12802270](https://ordinals.com/inscription/3e673f117ff757d4d835905e81c8aae6c69a2c1d87c5f2d5066267287eb69ad6i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802270.png) 4x ![](https://ordbase.github.io/num/12802270@4x.png)<br>
+[№ 15115976](https://ordinals.com/inscription/f2fc73c3f46c12182a3fc7f5f282e68ad605da679910bf242faaf7eedb723bbci0) - 2023-07-07 08:41:51 UTC<br>
+![](https://ordbase.github.io/num/15115976.png) 4x ![](https://ordbase.github.io/num/15115976@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[0,33,39]}
+og mint diymaxibiz 6 25 40 59 74
 ```
 
-[№ 12802269](https://ordinals.com/inscription/1810857ba7cf149d2678dc7662bbe7f551e62739e0472f2b660737d6895fa3c7i0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802269.png) 4x ![](https://ordbase.github.io/num/12802269@4x.png)<br>
+[№ 15115975](https://ordinals.com/inscription/27687f608e1b92435d18f79bd93f03aa131e213d0ade29372f03b44a14237ab1i0) - 2023-07-07 08:41:51 UTC<br>
+![](https://ordbase.github.io/num/15115975.png) 4x ![](https://ordbase.github.io/num/15115975@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[0,32,39]}
+og mint diymaxibiz 87 3 74 59 42
 ```
 
-[№ 12802268](https://ordinals.com/inscription/fd3fb3e77526f4b0b6d1ab488f501a5c8044470b45d797d4232417cf84015baei0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802268.png) 4x ![](https://ordbase.github.io/num/12802268@4x.png)<br>
+[№ 15115970](https://ordinals.com/inscription/185c90653c8e4c1c6cf7bdbc4b7f314f6d48b6eff0b9a93b736c11913d52c596i0) - 2023-07-07 08:41:51 UTC<br>
+![](https://ordbase.github.io/num/15115970.png) 4x ![](https://ordbase.github.io/num/15115970@4x.png)<br>
 ```
-{"p":"orc-721","op":"mint","s":"diymartians","g":[0,31,39]}
+og mint diymaxibiz 6 25 40
 ```
 
-[№ 12802267](https://ordinals.com/inscription/f565dd34beb41a259f9961dcebd7a387b5b6ca98c98c10949460be5b14b663aei0) - 2023-06-19 18:42:55 UTC<br>
-![](https://ordbase.github.io/num/12802267.png) 4x ![](https://ordbase.github.io/num/12802267@4x.png)<br>
+[№ 15115966](https://ordinals.com/inscription/bb6078eef2d965ead4a9ac8fdf5f6c33f984e597fdef9cc2747a04379d2cf18bi0) - 2023-07-07 08:41:51 UTC<br>
+![](https://ordbase.github.io/num/15115966.png) 4x ![](https://ordbase.github.io/num/15115966@4x.png)<br>
 ```
-{
-	"p": "orc-721",
-	"op": "mint",
-	"s": "diymartians",
-	"g": [42, 6, 31]
-}
+og mint diymaxibiz 87 48 0 47 48 40 73 21 29
 ```
-
-
 
 ---
 
